@@ -62,8 +62,8 @@ namespace EjercicioOrdenador
             return HttpPolicyExtensions
                 .HandleTransientHttpError()
                 .CircuitBreakerAsync(
-                    handledEventsAllowedBeforeBreaking: 3, // Número de intentos antes de abrir el circuito
-                    durationOfBreak: TimeSpan.FromSeconds(30) // Duración de la apertura del circuito en segundos
+                    handledEventsAllowedBeforeBreaking: 3, // Nï¿½mero de intentos antes de abrir el circuito
+                    durationOfBreak: TimeSpan.FromSeconds(30) // Duraciï¿½n de la apertura del circuito en segundos
                 );
         }
 
@@ -72,7 +72,7 @@ namespace EjercicioOrdenador
             string containerName = "tiendaordenadores"; // Reemplaza con el nombre de tu contenedor
             string localFolderPath = "Logs";
             // Copy the connection string from the portal in the variable below.
-            string storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=tiendapc;AccountKey=SnPP2a5U+cFJS9+Trb6lGsbPJQkrQrBut0NZWuSQB9WXYGec8HYuu5zFYtXMcrf3s1qLxblSYRiq+AStGJUNFw==;EndpointSuffix=core.windows.net";
+            string storageConnectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION"); ;
 
             // Create a client that can authenticate with a connection string
             BlobServiceClient blobServiceClient = new BlobServiceClient(storageConnectionString);
@@ -102,6 +102,6 @@ namespace EjercicioOrdenador
             Console.WriteLine("Todos los archivos han sido subidos a Azure Blob Storage.");
 
         }
-        
+
     }
 }
