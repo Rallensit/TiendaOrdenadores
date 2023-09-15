@@ -1,0 +1,21 @@
+2023-09-14 22:17:13.0632 INFO Linked Log to repository
+2023-09-14 22:17:13.0781 INFO Linked Log to repository
+2023-09-14 22:17:13.0781 DEBUG For Testing
+2023-09-14 22:17:16.5856 INFO Linked Log to repository
+2023-09-14 22:17:16.5856 INFO Linked Log to repository
+2023-09-14 22:17:16.5856 DEBUG For Testing
+2023-09-14 22:17:16.5856 INFO Se va a mostrar la lista de componentes
+2023-09-14 22:17:18.8746 INFO Linked Log to repository
+2023-09-14 22:17:18.8746 INFO Linked Log to repository
+2023-09-14 22:17:18.8746 DEBUG For Testing
+2023-09-14 22:17:18.9492 INFO Se va a mostrar la vista para editar el componente 1
+2023-09-14 22:17:20.5483 INFO Linked Log to repository
+2023-09-14 22:17:20.5483 INFO Linked Log to repository
+2023-09-14 22:17:20.5483 DEBUG For Testing
+2023-09-14 22:17:20.5483 INFO Se va a mostrar la lista de componentes
+2023-09-14 22:17:21.1764 INFO Linked Log to repository
+2023-09-14 22:17:21.1764 INFO Se va a mostrar la lista de ordenadores
+2023-09-14 22:17:22.5169 INFO Linked Log to repository
+2023-09-14 22:17:22.5169 INFO Se va a mostrar los detalles del ordenador 1
+2023-09-14 22:17:24.1221 INFO Linked Log to repository
+2023-09-14 22:17:24.1221 INFO Se va a mostrar la lista de ordenadores

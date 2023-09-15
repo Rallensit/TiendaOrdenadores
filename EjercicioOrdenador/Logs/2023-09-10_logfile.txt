@@ -1,0 +1,40 @@
+2023-09-10 14:29:13.0480 DEBUG For Testing
+2023-09-10 14:29:13.0480 INFO Se va a mostrar los detalles del componente 2
+2023-09-10 14:29:13.0855 DEBUG For Testing
+2023-09-10 14:29:13.0855 INFO Se va a mostrar los detalles del componente 1
+2023-09-10 14:29:13.0855 DEBUG For Testing
+2023-09-10 14:29:13.0855 INFO Se va a mostrar la lista de componentes
+2023-09-10 14:29:13.0855 DEBUG For Testing
+2023-09-10 14:29:13.0855 INFO Se va a mostrar la lista de componentes
+2023-09-10 14:29:13.0855 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se ha creado un nuevo componente 19
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se va a mostrar la vista para editar el componente 1
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se esta editando el componente 1
+2023-09-10 14:29:13.1204 INFO Se va a mostrar los detalles del componente 1
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 ERROR No se ha podido editar el componente 19
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1204 INFO Se esta eliminando el componente 1
+2023-09-10 14:29:13.1204 DEBUG For Testing
+2023-09-10 14:29:13.1256 WARN No se ha podido eliminar el componente 19
+2023-09-10 14:29:13.1256 INFO Se va a mostrar los detalles del ordenador 0
+2023-09-10 14:29:13.1256 INFO Se va a mostrar los detalles del ordenador 1
+2023-09-10 14:29:13.1256 INFO Se va a mostrar la lista de ordenadores
+2023-09-10 14:29:13.1256 INFO Se va a mostrar la lista de ordenadores
+2023-09-10 14:29:13.1256 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-09-10 14:29:13.1256 INFO Se ha creado un nuevo ordenador 2
+2023-09-10 14:29:13.1256 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-09-10 14:29:13.1256 INFO Se esta editando el ordenador 0
+2023-09-10 14:29:13.1256 INFO Se va a mostrar los detalles del ordenador 0
+2023-09-10 14:29:13.1256 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-09-10 14:29:13.1256 INFO Se esta eliminando el ordenador 1
+2023-09-10 14:29:13.1256 WARN No se ha podido eliminar el ordenador 19
+2023-09-10 14:29:13.2138 INFO Linked Log to repository
+2023-09-10 14:29:13.2138 INFO Linked Log to repository
+2023-09-10 14:29:13.7530 INFO Componente eliminado

@@ -1,0 +1,27 @@
+2023-09-11 11:36:13.6353 DEBUG For Testing
+2023-09-11 11:37:45.6122 INFO Linked Log to repository
+2023-09-11 11:37:45.6260 INFO Linked Log to repository
+2023-09-11 11:37:45.6260 DEBUG For Testing
+2023-09-11 11:39:25.9452 INFO Linked Log to repository
+2023-09-11 11:39:25.9706 INFO Linked Log to repository
+2023-09-11 11:39:25.9706 DEBUG For Testing
+2023-09-11 11:39:27.8181 INFO Linked Log to repository
+2023-09-11 11:39:27.8181 INFO Linked Log to repository
+2023-09-11 11:39:27.8181 DEBUG For Testing
+2023-09-11 11:40:06.6985 DEBUG For Testing
+2023-09-11 11:41:05.1462 DEBUG For Testing
+2023-09-11 11:41:10.3607 DEBUG For Testing
+2023-09-11 11:41:10.3607 INFO Se va a mostrar la lista de componentes
+2023-09-11 11:41:12.7851 DEBUG For Testing
+2023-09-11 11:41:12.8384 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-09-11 11:41:18.6387 DEBUG For Testing
+2023-09-11 11:41:18.6764 INFO Se ha creado un nuevo componente 0
+2023-09-11 11:41:21.5313 DEBUG For Testing
+2023-09-11 11:41:21.5313 INFO Se va a mostrar la lista de componentes
+2023-09-11 11:41:47.6886 INFO Linked Log to repository
+2023-09-11 11:41:47.7049 INFO Linked Log to repository
+2023-09-11 11:41:47.7049 DEBUG For Testing
+2023-09-11 11:41:51.0878 INFO Linked Log to repository
+2023-09-11 11:41:51.0878 INFO Linked Log to repository
+2023-09-11 11:41:51.0878 DEBUG For Testing
+2023-09-11 11:41:51.0878 INFO Se va a mostrar la lista de componentes

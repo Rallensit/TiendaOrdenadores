@@ -1,0 +1,1373 @@
+2023-08-10 08:48:07.8922 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 08:48:07.9485 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:48:07.9485 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:48:07.9485 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:48:07.9485 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 08:48:07.9485 INFO Se ha creado un nuevo componente 19
+2023-08-10 08:48:07.9485 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 08:48:07.9549 INFO Se esta editando el componente 1
+2023-08-10 08:48:07.9549 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:48:08.0279 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 08:48:08.0279 INFO No se ha podido eliminar el componente 18
+2023-08-10 08:50:28.2511 DEBUG For Testing
+2023-08-10 08:50:28.2695 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 08:50:28.2971 DEBUG For Testing
+2023-08-10 08:50:28.2971 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se ha creado un nuevo componente 19
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 08:50:28.2991 DEBUG For Testing
+2023-08-10 08:50:28.2991 INFO Se esta editando el componente 1
+2023-08-10 08:50:28.2991 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:50:28.3634 DEBUG For Testing
+2023-08-10 08:50:28.3634 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 08:50:28.3634 DEBUG For Testing
+2023-08-10 08:50:28.3634 WARN No se ha podido eliminar el componente 18
+2023-08-10 08:53:15.5169 DEBUG For Testing
+2023-08-10 08:53:15.5342 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 08:53:15.5562 DEBUG For Testing
+2023-08-10 08:53:15.5562 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:53:15.5562 DEBUG For Testing
+2023-08-10 08:53:15.5562 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 08:53:15.5562 DEBUG For Testing
+2023-08-10 08:53:15.5562 INFO Se ha creado un nuevo componente 19
+2023-08-10 08:53:15.5562 DEBUG For Testing
+2023-08-10 08:53:15.5562 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 08:53:15.5562 DEBUG For Testing
+2023-08-10 08:53:15.5562 WARN No se ha podido eliminar el componente 18
+2023-08-10 08:53:15.5738 DEBUG For Testing
+2023-08-10 08:53:15.5738 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 08:53:15.5738 DEBUG For Testing
+2023-08-10 08:53:15.5738 INFO Se esta editando el componente 1
+2023-08-10 08:53:15.5738 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:53:15.5738 DEBUG For Testing
+2023-08-10 08:53:15.5738 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:53:15.5998 DEBUG For Testing
+2023-08-10 08:53:15.5998 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:53:34.3610 DEBUG For Testing
+2023-08-10 08:53:34.3776 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se ha creado un nuevo componente 19
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 WARN No se ha podido eliminar el componente 18
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se esta editando el componente 1
+2023-08-10 08:53:34.3938 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:53:34.3938 DEBUG For Testing
+2023-08-10 08:53:34.3938 INFO Se esta editando el componente 1
+2023-08-10 08:53:34.4302 DEBUG For Testing
+2023-08-10 08:53:34.4302 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:53:34.4302 DEBUG For Testing
+2023-08-10 08:53:34.4302 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:54:36.8930 DEBUG For Testing
+2023-08-10 08:54:36.9081 INFO Se esta editando el componente 1
+2023-08-10 08:57:16.0499 DEBUG For Testing
+2023-08-10 08:57:16.0499 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 08:57:16.0771 DEBUG For Testing
+2023-08-10 08:57:16.0771 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:57:16.0771 DEBUG For Testing
+2023-08-10 08:57:16.0771 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 08:57:16.0771 DEBUG For Testing
+2023-08-10 08:57:16.0771 INFO Se ha creado un nuevo componente 19
+2023-08-10 08:57:16.0771 DEBUG For Testing
+2023-08-10 08:57:16.0771 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 08:57:16.0771 DEBUG For Testing
+2023-08-10 08:57:16.0792 WARN No se ha podido eliminar el componente 18
+2023-08-10 08:57:16.0792 DEBUG For Testing
+2023-08-10 08:57:16.0792 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 08:57:16.0792 DEBUG For Testing
+2023-08-10 08:57:16.0792 INFO Se esta editando el componente 1
+2023-08-10 08:57:16.0792 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 08:57:16.0792 DEBUG For Testing
+2023-08-10 08:57:16.0792 INFO Se esta editando el componente 1
+2023-08-10 08:57:16.1113 DEBUG For Testing
+2023-08-10 08:57:16.1113 INFO Se va a mostrar la lista de componentes
+2023-08-10 08:57:16.1113 DEBUG For Testing
+2023-08-10 08:57:16.1113 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:06:51.7510 DEBUG For Testing
+2023-08-10 09:06:51.7704 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se ha creado un nuevo componente 19
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 09:06:51.8052 DEBUG For Testing
+2023-08-10 09:06:51.8052 INFO Se esta editando el componente 1
+2023-08-10 09:06:51.8052 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:06:51.8679 DEBUG For Testing
+2023-08-10 09:06:51.8679 INFO Se esta editando el componente 1
+2023-08-10 09:06:51.8679 DEBUG For Testing
+2023-08-10 09:06:51.8679 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 09:06:51.8679 DEBUG For Testing
+2023-08-10 09:06:51.8679 WARN No se ha podido eliminar el componente 18
+2023-08-10 09:18:08.8293 DEBUG For Testing
+2023-08-10 09:18:08.8455 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 09:18:08.8757 DEBUG For Testing
+2023-08-10 09:18:08.8757 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se ha creado un nuevo componente 19
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 09:18:08.8774 DEBUG For Testing
+2023-08-10 09:18:08.8774 INFO Se esta editando el componente 1
+2023-08-10 09:18:08.8774 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:18:08.9428 DEBUG For Testing
+2023-08-10 09:18:08.9428 INFO Se esta editando el componente 1
+2023-08-10 09:18:08.9428 DEBUG For Testing
+2023-08-10 09:18:08.9428 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 09:18:08.9428 DEBUG For Testing
+2023-08-10 09:18:08.9428 WARN No se ha podido eliminar el componente 18
+2023-08-10 09:19:57.1575 DEBUG For Testing
+2023-08-10 09:19:57.1744 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 09:19:57.2456 DEBUG For Testing
+2023-08-10 09:19:57.2456 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:19:57.2456 DEBUG For Testing
+2023-08-10 09:19:57.2456 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 09:19:57.2456 DEBUG For Testing
+2023-08-10 09:19:57.2456 INFO Se ha creado un nuevo componente 19
+2023-08-10 09:19:57.2456 DEBUG For Testing
+2023-08-10 09:19:57.2456 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 09:19:57.2456 DEBUG For Testing
+2023-08-10 09:19:57.2456 WARN No se ha podido eliminar el componente 18
+2023-08-10 09:19:57.3016 DEBUG For Testing
+2023-08-10 09:19:57.3016 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 09:19:57.3016 DEBUG For Testing
+2023-08-10 09:19:57.3016 INFO Se esta editando el componente 1
+2023-08-10 09:19:57.3016 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 09:19:57.3016 DEBUG For Testing
+2023-08-10 09:19:57.3016 INFO Se esta editando el componente 1
+2023-08-10 09:19:57.3335 DEBUG For Testing
+2023-08-10 09:19:57.3335 INFO Se va a mostrar la lista de componentes
+2023-08-10 09:19:57.3335 DEBUG For Testing
+2023-08-10 09:19:57.3335 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:17:17.2204 DEBUG For Testing
+2023-08-10 10:17:17.2204 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:17:17.2706 DEBUG For Testing
+2023-08-10 10:17:17.2706 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:17:17.2706 DEBUG For Testing
+2023-08-10 10:17:17.2706 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:17:17.2706 DEBUG For Testing
+2023-08-10 10:17:17.2706 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:17:17.2706 DEBUG For Testing
+2023-08-10 10:17:17.2706 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:17:17.2706 DEBUG For Testing
+2023-08-10 10:17:17.2706 WARN No se ha podido eliminar el componente 18
+2023-08-10 10:17:17.2846 DEBUG For Testing
+2023-08-10 10:17:17.2846 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 10:17:17.2846 DEBUG For Testing
+2023-08-10 10:17:17.2846 INFO Se esta editando el componente 1
+2023-08-10 10:17:17.2846 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:17:17.2846 DEBUG For Testing
+2023-08-10 10:17:17.2846 INFO Se esta editando el componente 1
+2023-08-10 10:17:17.3154 DEBUG For Testing
+2023-08-10 10:17:17.3154 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:17:17.3154 DEBUG For Testing
+2023-08-10 10:17:17.3154 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:18:57.0790 DEBUG For Testing
+2023-08-10 10:18:57.0980 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:18:57.1163 DEBUG For Testing
+2023-08-10 10:18:57.1163 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:18:57.1163 DEBUG For Testing
+2023-08-10 10:18:57.1163 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:18:57.1163 DEBUG For Testing
+2023-08-10 10:18:57.1163 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:18:57.1163 DEBUG For Testing
+2023-08-10 10:18:57.1163 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:18:57.1163 DEBUG For Testing
+2023-08-10 10:18:57.1163 WARN No se ha podido eliminar el componente 18
+2023-08-10 10:18:57.1296 DEBUG For Testing
+2023-08-10 10:18:57.1296 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 10:18:57.1296 DEBUG For Testing
+2023-08-10 10:18:57.1296 INFO Se esta editando el componente 1
+2023-08-10 10:18:57.1296 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:18:57.1296 DEBUG For Testing
+2023-08-10 10:18:57.1296 INFO Se esta editando el componente 1
+2023-08-10 10:18:57.1525 DEBUG For Testing
+2023-08-10 10:18:57.1525 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:18:57.1525 DEBUG For Testing
+2023-08-10 10:18:57.1525 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:23:55.7203 DEBUG For Testing
+2023-08-10 10:23:55.7355 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:23:55.7550 DEBUG For Testing
+2023-08-10 10:23:55.7550 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:23:55.7550 DEBUG For Testing
+2023-08-10 10:23:55.7550 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:23:55.7550 DEBUG For Testing
+2023-08-10 10:23:55.7550 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:23:55.7550 DEBUG For Testing
+2023-08-10 10:23:55.7550 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:23:55.7550 DEBUG For Testing
+2023-08-10 10:23:55.7550 WARN No se ha podido eliminar el componente 18
+2023-08-10 10:23:55.7683 DEBUG For Testing
+2023-08-10 10:23:55.7683 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 10:23:55.7683 DEBUG For Testing
+2023-08-10 10:23:55.7683 INFO Se esta editando el componente 1
+2023-08-10 10:23:55.7683 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:23:55.7683 DEBUG For Testing
+2023-08-10 10:23:55.7683 INFO Se esta editando el componente 1
+2023-08-10 10:23:55.7947 DEBUG For Testing
+2023-08-10 10:23:55.7947 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:23:55.7947 DEBUG For Testing
+2023-08-10 10:23:55.7947 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:25:12.0483 DEBUG For Testing
+2023-08-10 10:25:12.0483 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:25:12.0711 DEBUG For Testing
+2023-08-10 10:25:12.0711 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:25:12.0711 DEBUG For Testing
+2023-08-10 10:25:12.0711 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:25:12.0711 DEBUG For Testing
+2023-08-10 10:25:12.0711 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:25:12.0711 DEBUG For Testing
+2023-08-10 10:25:12.0711 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:25:12.0711 DEBUG For Testing
+2023-08-10 10:25:12.0711 WARN No se ha podido eliminar el componente 18
+2023-08-10 10:25:12.0836 DEBUG For Testing
+2023-08-10 10:25:12.0836 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 10:25:12.0836 DEBUG For Testing
+2023-08-10 10:25:12.0836 INFO Se esta editando el componente 1
+2023-08-10 10:25:12.0836 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:25:12.0836 DEBUG For Testing
+2023-08-10 10:25:12.0836 INFO Se esta editando el componente 1
+2023-08-10 10:25:12.1116 DEBUG For Testing
+2023-08-10 10:25:12.1116 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:25:12.1116 DEBUG For Testing
+2023-08-10 10:25:12.1116 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:25:24.8292 DEBUG For Testing
+2023-08-10 10:25:24.8506 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:25:24.8889 DEBUG For Testing
+2023-08-10 10:25:24.8889 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:25:24.8889 DEBUG For Testing
+2023-08-10 10:25:24.8889 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:25:24.8889 DEBUG For Testing
+2023-08-10 10:25:24.8889 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:25:24.8889 DEBUG For Testing
+2023-08-10 10:25:24.8889 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:25:24.8889 DEBUG For Testing
+2023-08-10 10:27:59.2044 DEBUG For Testing
+2023-08-10 10:27:59.2253 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:27:59.2659 DEBUG For Testing
+2023-08-10 10:27:59.2659 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:27:59.2659 DEBUG For Testing
+2023-08-10 10:27:59.2659 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:27:59.2659 DEBUG For Testing
+2023-08-10 10:27:59.2669 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:27:59.2669 DEBUG For Testing
+2023-08-10 10:27:59.2669 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:27:59.2669 DEBUG For Testing
+2023-08-10 10:28:08.9392 DEBUG For Testing
+2023-08-10 10:28:08.9550 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:28:08.9904 DEBUG For Testing
+2023-08-10 10:28:08.9904 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:28:08.9904 DEBUG For Testing
+2023-08-10 10:28:08.9904 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:28:08.9904 DEBUG For Testing
+2023-08-10 10:28:08.9904 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:28:08.9904 DEBUG For Testing
+2023-08-10 10:28:08.9904 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:28:08.9904 DEBUG For Testing
+2023-08-10 10:30:24.1886 DEBUG For Testing
+2023-08-10 10:30:24.2091 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 10:30:24.2275 DEBUG For Testing
+2023-08-10 10:30:24.2275 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:30:24.2275 DEBUG For Testing
+2023-08-10 10:30:24.2275 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 10:30:24.2275 DEBUG For Testing
+2023-08-10 10:30:24.2275 INFO Se ha creado un nuevo componente 19
+2023-08-10 10:30:24.2275 DEBUG For Testing
+2023-08-10 10:30:24.2275 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 10:30:24.2275 DEBUG For Testing
+2023-08-10 10:30:24.2275 WARN No se ha podido eliminar el componente 18
+2023-08-10 10:30:24.2404 DEBUG For Testing
+2023-08-10 10:30:24.2404 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 10:30:24.2404 DEBUG For Testing
+2023-08-10 10:30:24.2404 INFO Se esta editando el componente 1
+2023-08-10 10:30:24.2404 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 10:30:24.2404 DEBUG For Testing
+2023-08-10 10:30:24.2404 INFO Se esta editando el componente 1
+2023-08-10 10:30:24.2653 DEBUG For Testing
+2023-08-10 10:30:24.2653 INFO Se va a mostrar la lista de componentes
+2023-08-10 10:30:24.2653 DEBUG For Testing
+2023-08-10 10:30:24.2666 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:15:26.1582 DEBUG For Testing
+2023-08-10 11:15:26.1739 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 11:15:26.2042 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se ha creado un nuevo componente 19
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se esta editando el componente 1
+2023-08-10 11:15:26.2045 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se esta editando el componente 1
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:15:26.2045 DEBUG For Testing
+2023-08-10 11:15:26.2045 INFO Se esta eliminando el componente 1
+2023-08-10 11:15:36.8298 DEBUG For Testing
+2023-08-10 11:15:36.8452 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 11:15:36.8452 DEBUG For Testing
+2023-08-10 11:15:36.8452 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:15:36.8452 DEBUG For Testing
+2023-08-10 11:15:36.8452 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:15:36.8452 DEBUG For Testing
+2023-08-10 11:15:36.8452 INFO Se ha creado un nuevo componente 19
+2023-08-10 11:15:36.8452 DEBUG For Testing
+2023-08-10 11:15:36.8603 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:15:36.8603 DEBUG For Testing
+2023-08-10 11:15:36.8603 INFO Se esta eliminando el componente 1
+2023-08-10 11:15:36.8603 DEBUG For Testing
+2023-08-10 11:15:36.8603 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:15:36.8603 DEBUG For Testing
+2023-08-10 11:15:36.8603 INFO Se esta editando el componente 1
+2023-08-10 11:15:36.8603 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:15:36.8603 DEBUG For Testing
+2023-08-10 11:15:36.8603 INFO Se esta editando el componente 1
+2023-08-10 11:15:36.8997 DEBUG For Testing
+2023-08-10 11:15:36.8997 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:15:36.8997 DEBUG For Testing
+2023-08-10 11:15:36.8997 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:17:33.5799 DEBUG For Testing
+2023-08-10 11:17:33.5964 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se esta eliminando el componente 1
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se esta editando el componente 1
+2023-08-10 11:17:33.6289 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:17:33.6289 DEBUG For Testing
+2023-08-10 11:17:33.6289 INFO Se esta editando el componente 1
+2023-08-10 11:17:33.6553 DEBUG For Testing
+2023-08-10 11:17:33.6553 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:17:33.6553 DEBUG For Testing
+2023-08-10 11:17:33.6553 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:17:57.3299 DEBUG For Testing
+2023-08-10 11:17:57.3457 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se esta eliminando el componente 1
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se esta editando el componente 1
+2023-08-10 11:17:57.3665 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:17:57.3665 DEBUG For Testing
+2023-08-10 11:17:57.3665 INFO Se esta editando el componente 1
+2023-08-10 11:17:57.3908 DEBUG For Testing
+2023-08-10 11:17:57.3908 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:17:57.3908 DEBUG For Testing
+2023-08-10 11:17:57.3918 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:18:44.5793 DEBUG For Testing
+2023-08-10 11:18:44.6005 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:18:44.6346 DEBUG For Testing
+2023-08-10 11:18:44.6346 INFO Se esta editando el componente 1
+2023-08-10 11:18:44.6415 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:18:44.6415 DEBUG For Testing
+2023-08-10 11:18:44.6415 INFO Se esta editando el componente 1
+2023-08-10 11:18:44.6415 DEBUG For Testing
+2023-08-10 11:18:44.6415 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:18:44.6415 DEBUG For Testing
+2023-08-10 11:18:44.6415 INFO Se esta eliminando el componente 1
+2023-08-10 11:19:49.1426 DEBUG For Testing
+2023-08-10 11:19:49.1426 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:19:49.1699 DEBUG For Testing
+2023-08-10 11:19:49.1699 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:19:49.1699 DEBUG For Testing
+2023-08-10 11:19:49.1699 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:19:49.1699 DEBUG For Testing
+2023-08-10 11:19:49.1699 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:19:49.1699 DEBUG For Testing
+2023-08-10 11:19:49.1699 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:19:49.1699 DEBUG For Testing
+2023-08-10 11:19:49.1699 INFO Se esta eliminando el componente 1
+2023-08-10 11:19:49.1729 DEBUG For Testing
+2023-08-10 11:19:49.1729 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:19:49.1729 DEBUG For Testing
+2023-08-10 11:19:49.1729 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:19:49.1729 DEBUG For Testing
+2023-08-10 11:19:49.1729 INFO Se esta editando el componente 1
+2023-08-10 11:19:49.1729 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:19:49.1983 DEBUG For Testing
+2023-08-10 11:19:49.1983 INFO Se esta editando el componente 1
+2023-08-10 11:19:49.1983 DEBUG For Testing
+2023-08-10 11:19:49.1983 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:19:49.1983 DEBUG For Testing
+2023-08-10 11:19:49.1983 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:19:59.6589 DEBUG For Testing
+2023-08-10 11:19:59.6744 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:20:44.2361 DEBUG For Testing
+2023-08-10 11:20:44.2516 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se esta eliminando el componente 1
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:20:44.2675 DEBUG For Testing
+2023-08-10 11:20:44.2675 INFO Se esta editando el componente 1
+2023-08-10 11:20:44.2675 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:20:44.3026 DEBUG For Testing
+2023-08-10 11:20:44.3026 INFO Se esta editando el componente 1
+2023-08-10 11:20:44.3138 DEBUG For Testing
+2023-08-10 11:20:44.3138 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:20:44.3138 DEBUG For Testing
+2023-08-10 11:20:44.3138 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:22:26.4073 DEBUG For Testing
+2023-08-10 11:22:26.4073 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se esta eliminando el componente 1
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:22:26.4330 DEBUG For Testing
+2023-08-10 11:22:26.4330 INFO Se esta editando el componente 1
+2023-08-10 11:22:26.4330 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:22:26.4578 DEBUG For Testing
+2023-08-10 11:22:26.4578 INFO Se esta editando el componente 1
+2023-08-10 11:22:26.4702 DEBUG For Testing
+2023-08-10 11:22:26.4702 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:22:26.4702 DEBUG For Testing
+2023-08-10 11:22:26.4702 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:22:57.6888 DEBUG For Testing
+2023-08-10 11:22:57.6888 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se esta eliminando el componente 1
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:22:57.7123 DEBUG For Testing
+2023-08-10 11:22:57.7123 INFO Se esta editando el componente 1
+2023-08-10 11:22:57.7123 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:22:57.7396 DEBUG For Testing
+2023-08-10 11:22:57.7396 ERROR No se ha podido editar el componente 19
+2023-08-10 11:22:57.7396 DEBUG For Testing
+2023-08-10 11:22:57.7396 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:22:57.7396 DEBUG For Testing
+2023-08-10 11:22:57.7396 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:23:59.7362 DEBUG For Testing
+2023-08-10 11:23:59.7362 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se esta eliminando el componente 1
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:23:59.7847 DEBUG For Testing
+2023-08-10 11:23:59.7847 INFO Se esta editando el componente 1
+2023-08-10 11:23:59.7847 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:23:59.8115 DEBUG For Testing
+2023-08-10 11:23:59.8289 DEBUG For Testing
+2023-08-10 11:23:59.8291 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:23:59.8291 DEBUG For Testing
+2023-08-10 11:23:59.8291 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:24:13.3916 DEBUG For Testing
+2023-08-10 11:24:13.4097 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se esta eliminando el componente 1
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:24:13.4271 DEBUG For Testing
+2023-08-10 11:24:13.4271 INFO Se esta editando el componente 1
+2023-08-10 11:24:13.4271 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:24:13.4522 DEBUG For Testing
+2023-08-10 11:24:13.4522 ERROR No se ha podido editar el componente 19
+2023-08-10 11:24:13.4522 DEBUG For Testing
+2023-08-10 11:24:13.4522 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:24:13.4522 DEBUG For Testing
+2023-08-10 11:24:13.4522 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:24:20.4086 DEBUG For Testing
+2023-08-10 11:24:20.4246 INFO Se esta editando el componente 1
+2023-08-10 11:24:20.4528 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:24:20.4620 DEBUG For Testing
+2023-08-10 11:24:20.4620 ERROR No se ha podido editar el componente 19
+2023-08-10 11:25:52.4702 DEBUG For Testing
+2023-08-10 11:25:52.4881 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:25:52.5053 DEBUG For Testing
+2023-08-10 11:25:52.5053 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:25:52.5053 DEBUG For Testing
+2023-08-10 11:25:52.5053 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:25:52.5053 DEBUG For Testing
+2023-08-10 11:25:52.5053 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:25:52.5053 DEBUG For Testing
+2023-08-10 11:25:52.5053 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:25:52.5199 DEBUG For Testing
+2023-08-10 11:25:52.5199 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:25:52.5199 DEBUG For Testing
+2023-08-10 11:25:52.5199 INFO Se esta eliminando el componente 1
+2023-08-10 11:25:52.5199 DEBUG For Testing
+2023-08-10 11:25:52.5199 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:25:52.5199 DEBUG For Testing
+2023-08-10 11:25:52.5199 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:25:52.5429 DEBUG For Testing
+2023-08-10 11:25:52.5429 INFO Se esta editando el componente 1
+2023-08-10 11:25:52.5429 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:25:52.5429 DEBUG For Testing
+2023-08-10 11:25:52.5429 ERROR No se ha podido editar el componente 19
+2023-08-10 11:25:52.5429 DEBUG For Testing
+2023-08-10 11:25:52.5429 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:25:52.5429 DEBUG For Testing
+2023-08-10 11:25:52.5429 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:26:29.0170 DEBUG For Testing
+2023-08-10 11:26:29.0333 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0493 INFO Se esta eliminando el componente 1
+2023-08-10 11:26:29.0493 DEBUG For Testing
+2023-08-10 11:26:29.0638 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:26:29.0638 DEBUG For Testing
+2023-08-10 11:26:29.0638 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:26:29.0860 DEBUG For Testing
+2023-08-10 11:26:29.0860 INFO Se esta editando el componente 1
+2023-08-10 11:26:29.0860 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:26:29.0860 DEBUG For Testing
+2023-08-10 11:26:29.0860 ERROR No se ha podido editar el componente 19
+2023-08-10 11:26:29.0860 DEBUG For Testing
+2023-08-10 11:26:29.0860 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:26:29.0860 DEBUG For Testing
+2023-08-10 11:26:29.0860 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:27:02.8149 DEBUG For Testing
+2023-08-10 11:27:02.8300 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:57:39.0178 DEBUG For Testing
+2023-08-10 11:57:39.0335 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:57:39.0780 DEBUG For Testing
+2023-08-10 11:57:39.0780 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:57:39.0780 DEBUG For Testing
+2023-08-10 11:57:39.0780 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:57:39.0792 DEBUG For Testing
+2023-08-10 11:57:39.0792 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:57:39.0792 DEBUG For Testing
+2023-08-10 11:57:53.9235 DEBUG For Testing
+2023-08-10 11:57:53.9390 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:57:53.9724 DEBUG For Testing
+2023-08-10 11:57:53.9724 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:57:53.9724 DEBUG For Testing
+2023-08-10 11:57:53.9724 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:57:53.9724 DEBUG For Testing
+2023-08-10 11:57:53.9724 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:57:53.9724 DEBUG For Testing
+2023-08-10 11:58:37.7345 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:59:40.5480 DEBUG For Testing
+2023-08-10 11:59:40.5480 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:59:40.5748 DEBUG For Testing
+2023-08-10 11:59:40.5748 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 11:59:40.5748 DEBUG For Testing
+2023-08-10 11:59:40.5748 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 11:59:40.5748 DEBUG For Testing
+2023-08-10 11:59:40.5748 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:59:40.5748 DEBUG For Testing
+2023-08-10 11:59:40.5748 INFO Se ha creado un nuevo componente 18
+2023-08-10 11:59:40.5880 DEBUG For Testing
+2023-08-10 11:59:40.5880 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 11:59:40.5880 DEBUG For Testing
+2023-08-10 11:59:40.5880 INFO Se esta eliminando el componente 1
+2023-08-10 11:59:40.5880 DEBUG For Testing
+2023-08-10 11:59:40.5880 WARN No se ha podido eliminar el componente 19
+2023-08-10 11:59:40.5880 DEBUG For Testing
+2023-08-10 11:59:40.5880 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 11:59:40.6137 DEBUG For Testing
+2023-08-10 11:59:40.6137 INFO Se esta editando el componente 1
+2023-08-10 11:59:40.6137 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 11:59:40.6137 DEBUG For Testing
+2023-08-10 11:59:40.6137 ERROR No se ha podido editar el componente 19
+2023-08-10 11:59:40.6137 DEBUG For Testing
+2023-08-10 11:59:40.6137 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:59:40.6137 DEBUG For Testing
+2023-08-10 11:59:40.6137 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:59:52.0034 DEBUG For Testing
+2023-08-10 11:59:52.0175 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:00:11.1583 DEBUG For Testing
+2023-08-10 12:00:11.1583 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:00:11.1837 DEBUG For Testing
+2023-08-10 12:00:11.1837 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:00:11.1837 DEBUG For Testing
+2023-08-10 12:00:11.1837 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:00:11.1837 DEBUG For Testing
+2023-08-10 12:00:11.1837 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:00:11.1837 DEBUG For Testing
+2023-08-10 12:00:11.1837 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:00:11.1955 DEBUG For Testing
+2023-08-10 12:00:11.1955 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:00:11.1955 DEBUG For Testing
+2023-08-10 12:00:11.1955 INFO Se esta eliminando el componente 1
+2023-08-10 12:00:11.1955 DEBUG For Testing
+2023-08-10 12:00:11.1955 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:00:11.1955 DEBUG For Testing
+2023-08-10 12:00:11.1955 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:00:11.2194 DEBUG For Testing
+2023-08-10 12:00:11.2200 INFO Se esta editando el componente 1
+2023-08-10 12:00:11.2200 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:00:11.2200 DEBUG For Testing
+2023-08-10 12:00:11.2200 ERROR No se ha podido editar el componente 19
+2023-08-10 12:00:11.2200 DEBUG For Testing
+2023-08-10 12:00:11.2200 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:00:11.2200 DEBUG For Testing
+2023-08-10 12:00:11.2200 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:03:42.0645 DEBUG For Testing
+2023-08-10 12:03:42.0645 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:03:42.0931 DEBUG For Testing
+2023-08-10 12:03:42.0931 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:03:42.0931 DEBUG For Testing
+2023-08-10 12:03:42.0931 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:03:42.0931 DEBUG For Testing
+2023-08-10 12:03:42.0950 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:03:42.0950 DEBUG For Testing
+2023-08-10 12:03:42.0950 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:03:42.0950 DEBUG For Testing
+2023-08-10 12:03:42.0950 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:03:42.0950 DEBUG For Testing
+2023-08-10 12:03:42.0950 INFO Se esta eliminando el componente 1
+2023-08-10 12:03:42.0950 DEBUG For Testing
+2023-08-10 12:03:42.0950 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:03:42.0950 DEBUG For Testing
+2023-08-10 12:03:42.0950 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:03:42.1313 DEBUG For Testing
+2023-08-10 12:03:42.1313 INFO Se esta editando el componente 1
+2023-08-10 12:03:42.1313 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:03:42.1313 DEBUG For Testing
+2023-08-10 12:03:42.1313 ERROR No se ha podido editar el componente 19
+2023-08-10 12:03:42.1313 DEBUG For Testing
+2023-08-10 12:03:42.1313 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:03:42.1313 DEBUG For Testing
+2023-08-10 12:03:42.1313 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:05:16.9078 DEBUG For Testing
+2023-08-10 12:05:16.9264 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:05:16.9638 DEBUG For Testing
+2023-08-10 12:05:16.9638 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:07:08.3138 DEBUG For Testing
+2023-08-10 12:07:08.3298 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 INFO Se esta eliminando el componente 1
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:07:08.3450 DEBUG For Testing
+2023-08-10 12:07:08.3450 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:07:08.3891 DEBUG For Testing
+2023-08-10 12:07:08.3891 INFO Se esta editando el componente 1
+2023-08-10 12:07:08.3891 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:07:08.3891 DEBUG For Testing
+2023-08-10 12:07:08.3891 ERROR No se ha podido editar el componente 19
+2023-08-10 12:07:08.3891 DEBUG For Testing
+2023-08-10 12:07:08.3891 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:07:08.3918 DEBUG For Testing
+2023-08-10 12:07:08.3918 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:08:14.1886 DEBUG For Testing
+2023-08-10 12:08:14.1886 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:08:14.2144 DEBUG For Testing
+2023-08-10 12:08:14.2144 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:08:14.2144 DEBUG For Testing
+2023-08-10 12:08:14.2144 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:08:14.2144 DEBUG For Testing
+2023-08-10 12:08:14.2144 DEBUG For Testing
+2023-08-10 12:08:14.2264 DEBUG For Testing
+2023-08-10 12:08:14.2264 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:08:14.2264 DEBUG For Testing
+2023-08-10 12:08:14.2264 INFO Se esta eliminando el componente 1
+2023-08-10 12:08:14.2264 DEBUG For Testing
+2023-08-10 12:08:14.2264 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:08:14.2264 DEBUG For Testing
+2023-08-10 12:08:14.2264 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:08:14.2517 DEBUG For Testing
+2023-08-10 12:08:14.2517 INFO Se esta editando el componente 1
+2023-08-10 12:08:14.2517 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:08:14.2517 DEBUG For Testing
+2023-08-10 12:08:14.2517 ERROR No se ha podido editar el componente 19
+2023-08-10 12:08:14.2517 DEBUG For Testing
+2023-08-10 12:08:14.2517 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:08:14.2517 DEBUG For Testing
+2023-08-10 12:08:14.2517 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:31:22.6261 DEBUG For Testing
+2023-08-10 12:31:22.6439 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:31:22.6604 DEBUG For Testing
+2023-08-10 12:31:22.6604 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:31:22.6604 DEBUG For Testing
+2023-08-10 12:31:22.6604 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:31:22.6604 DEBUG For Testing
+2023-08-10 12:31:22.6604 DEBUG For Testing
+2023-08-10 12:31:22.6802 DEBUG For Testing
+2023-08-10 12:31:22.6802 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:31:22.6802 DEBUG For Testing
+2023-08-10 12:31:22.6802 INFO Se esta eliminando el componente 1
+2023-08-10 12:31:22.6802 DEBUG For Testing
+2023-08-10 12:31:22.6802 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:31:22.6802 DEBUG For Testing
+2023-08-10 12:31:22.6802 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:31:22.7014 DEBUG For Testing
+2023-08-10 12:31:22.7014 INFO Se esta editando el componente 1
+2023-08-10 12:31:22.7014 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:31:22.7014 DEBUG For Testing
+2023-08-10 12:31:22.7014 ERROR No se ha podido editar el componente 19
+2023-08-10 12:31:22.7014 DEBUG For Testing
+2023-08-10 12:31:22.7014 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:31:22.7014 DEBUG For Testing
+2023-08-10 12:31:22.7014 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:32:34.3606 DEBUG For Testing
+2023-08-10 12:32:34.3781 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.3976 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.3976 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.3976 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.3976 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.3976 DEBUG For Testing
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 INFO Se esta editando el componente 1
+2023-08-10 12:32:34.4187 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 ERROR No se ha podido editar el componente 19
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 INFO Se esta eliminando el componente 1
+2023-08-10 12:32:34.4187 DEBUG For Testing
+2023-08-10 12:32:34.4187 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:33:40.1418 DEBUG For Testing
+2023-08-10 12:33:40.1588 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:33:40.1761 DEBUG For Testing
+2023-08-10 12:33:40.1761 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:33:40.1761 DEBUG For Testing
+2023-08-10 12:33:40.1761 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:33:40.1761 DEBUG For Testing
+2023-08-10 12:33:40.1761 DEBUG For Testing
+2023-08-10 12:33:40.1909 DEBUG For Testing
+2023-08-10 12:33:40.1909 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:33:40.1909 DEBUG For Testing
+2023-08-10 12:33:40.1909 INFO Se esta eliminando el componente 1
+2023-08-10 12:33:40.1909 DEBUG For Testing
+2023-08-10 12:33:40.1909 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:33:40.1909 DEBUG For Testing
+2023-08-10 12:33:40.1909 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:33:40.2140 DEBUG For Testing
+2023-08-10 12:33:40.2140 INFO Se esta editando el componente 1
+2023-08-10 12:33:40.2140 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:33:40.2140 DEBUG For Testing
+2023-08-10 12:33:40.2140 ERROR No se ha podido editar el componente 19
+2023-08-10 12:33:40.2140 DEBUG For Testing
+2023-08-10 12:33:40.2140 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:33:40.2140 DEBUG For Testing
+2023-08-10 12:33:40.2140 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:33:53.2670 DEBUG For Testing
+2023-08-10 12:33:53.2670 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:33:53.2899 DEBUG For Testing
+2023-08-10 12:33:53.2899 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:33:53.2899 DEBUG For Testing
+2023-08-10 12:33:53.2899 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:33:53.2899 DEBUG For Testing
+2023-08-10 12:33:53.2899 DEBUG For Testing
+2023-08-10 12:33:53.3035 DEBUG For Testing
+2023-08-10 12:33:53.3035 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:33:53.3035 DEBUG For Testing
+2023-08-10 12:33:53.3035 INFO Se esta eliminando el componente 1
+2023-08-10 12:33:53.3035 DEBUG For Testing
+2023-08-10 12:33:53.3035 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:33:53.3035 DEBUG For Testing
+2023-08-10 12:33:53.3035 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:33:53.3261 DEBUG For Testing
+2023-08-10 12:33:53.3261 INFO Se esta editando el componente 1
+2023-08-10 12:33:53.3261 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:33:53.3261 DEBUG For Testing
+2023-08-10 12:33:53.3261 ERROR No se ha podido editar el componente 19
+2023-08-10 12:33:53.3261 DEBUG For Testing
+2023-08-10 12:33:53.3261 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:33:53.3261 DEBUG For Testing
+2023-08-10 12:33:53.3261 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:34:19.4710 DEBUG For Testing
+2023-08-10 12:34:19.4854 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5171 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5171 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5171 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5171 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5171 DEBUG For Testing
+2023-08-10 12:34:19.5733 DEBUG For Testing
+2023-08-10 12:34:19.5733 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:34:19.5733 DEBUG For Testing
+2023-08-10 12:34:19.5733 INFO Se esta editando el componente 1
+2023-08-10 12:34:19.5733 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:34:19.5733 DEBUG For Testing
+2023-08-10 12:34:19.5733 ERROR No se ha podido editar el componente 19
+2023-08-10 12:34:19.5733 DEBUG For Testing
+2023-08-10 12:34:19.5733 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:34:19.5733 DEBUG For Testing
+2023-08-10 12:34:19.5800 INFO Se esta eliminando el componente 1
+2023-08-10 12:34:19.5800 DEBUG For Testing
+2023-08-10 12:34:19.5800 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:37:33.4232 DEBUG For Testing
+2023-08-10 12:37:33.4232 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:37:33.4489 DEBUG For Testing
+2023-08-10 12:37:33.4489 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:37:33.4489 DEBUG For Testing
+2023-08-10 12:37:33.4489 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:37:33.4489 DEBUG For Testing
+2023-08-10 12:37:33.4608 DEBUG For Testing
+2023-08-10 12:37:33.4608 DEBUG For Testing
+2023-08-10 12:37:33.4608 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:37:33.4700 DEBUG For Testing
+2023-08-10 12:37:33.4700 INFO Se esta eliminando el componente 1
+2023-08-10 12:37:33.4700 DEBUG For Testing
+2023-08-10 12:37:33.4700 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:37:33.4700 DEBUG For Testing
+2023-08-10 12:37:33.4700 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:37:33.4921 DEBUG For Testing
+2023-08-10 12:37:33.4921 INFO Se esta editando el componente 1
+2023-08-10 12:37:33.4921 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:37:33.4921 DEBUG For Testing
+2023-08-10 12:37:33.4921 ERROR No se ha podido editar el componente 19
+2023-08-10 12:37:33.4921 DEBUG For Testing
+2023-08-10 12:37:33.4921 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:37:33.4921 DEBUG For Testing
+2023-08-10 12:37:33.4921 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:39:08.2828 DEBUG For Testing
+2023-08-10 12:39:08.2828 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:39:08.3084 DEBUG For Testing
+2023-08-10 12:39:08.3084 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:39:08.3084 DEBUG For Testing
+2023-08-10 12:39:08.3084 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:39:08.3084 DEBUG For Testing
+2023-08-10 12:39:08.3084 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:39:08.3084 DEBUG For Testing
+2023-08-10 12:39:08.3084 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:39:08.3203 DEBUG For Testing
+2023-08-10 12:39:08.3203 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:39:08.3203 DEBUG For Testing
+2023-08-10 12:39:08.3203 INFO Se esta eliminando el componente 1
+2023-08-10 12:39:08.3203 DEBUG For Testing
+2023-08-10 12:39:08.3203 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:39:08.3203 DEBUG For Testing
+2023-08-10 12:39:08.3203 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:39:08.3414 DEBUG For Testing
+2023-08-10 12:39:08.3414 INFO Se esta editando el componente 1
+2023-08-10 12:39:08.3414 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:39:08.3414 DEBUG For Testing
+2023-08-10 12:39:08.3414 ERROR No se ha podido editar el componente 19
+2023-08-10 12:39:08.3414 DEBUG For Testing
+2023-08-10 12:39:08.3414 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:39:08.3414 DEBUG For Testing
+2023-08-10 12:39:08.3414 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:39:34.6574 DEBUG For Testing
+2023-08-10 12:39:34.6886 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:39:34.7172 DEBUG For Testing
+2023-08-10 12:39:34.7172 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:39:34.7172 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se esta editando el componente 1
+2023-08-10 12:39:34.7200 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 ERROR No se ha podido editar el componente 19
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 INFO Se esta eliminando el componente 1
+2023-08-10 12:39:34.7200 DEBUG For Testing
+2023-08-10 12:39:34.7200 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:40:18.7201 DEBUG For Testing
+2023-08-10 12:40:18.7359 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se esta eliminando el componente 1
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:40:18.7514 DEBUG For Testing
+2023-08-10 12:40:18.7514 INFO Se esta editando el componente 1
+2023-08-10 12:40:18.7514 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:40:18.7751 DEBUG For Testing
+2023-08-10 12:40:18.7751 ERROR No se ha podido editar el componente 19
+2023-08-10 12:40:18.7751 DEBUG For Testing
+2023-08-10 12:40:18.7751 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:40:18.7751 DEBUG For Testing
+2023-08-10 12:40:18.7751 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:40:24.1417 DEBUG For Testing
+2023-08-10 12:40:24.1596 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:41:02.3918 DEBUG For Testing
+2023-08-10 12:41:02.4102 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:02.4376 DEBUG For Testing
+2023-08-10 12:41:02.4376 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:41:02.4376 DEBUG For Testing
+2023-08-10 12:41:02.4376 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:41:02.4376 DEBUG For Testing
+2023-08-10 12:41:02.4385 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:41:02.4385 DEBUG For Testing
+2023-08-10 12:41:02.4385 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:41:02.4385 DEBUG For Testing
+2023-08-10 12:41:02.4385 INFO Se esta eliminando el componente 1
+2023-08-10 12:41:02.4385 DEBUG For Testing
+2023-08-10 12:41:02.4385 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:41:02.4385 DEBUG For Testing
+2023-08-10 12:41:02.4385 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:41:02.4385 DEBUG For Testing
+2023-08-10 12:41:02.4385 INFO Se esta editando el componente 1
+2023-08-10 12:41:02.4385 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:02.4633 DEBUG For Testing
+2023-08-10 12:41:02.4633 ERROR No se ha podido editar el componente 19
+2023-08-10 12:41:02.4633 DEBUG For Testing
+2023-08-10 12:41:02.4633 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:02.4633 DEBUG For Testing
+2023-08-10 12:41:02.4633 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:06.2521 DEBUG For Testing
+2023-08-10 12:41:06.2668 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:41:44.1263 DEBUG For Testing
+2023-08-10 12:41:44.1263 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1544 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1544 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1544 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1544 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1544 INFO Se esta eliminando el componente 1
+2023-08-10 12:41:44.1544 DEBUG For Testing
+2023-08-10 12:41:44.1572 WARN No se ha podido eliminar el componente 19
+2023-08-10 12:41:44.1572 DEBUG For Testing
+2023-08-10 12:41:44.1572 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:41:44.1572 DEBUG For Testing
+2023-08-10 12:41:44.1572 INFO Se esta editando el componente 1
+2023-08-10 12:41:44.1572 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:44.1816 DEBUG For Testing
+2023-08-10 12:41:44.1816 ERROR No se ha podido editar el componente 19
+2023-08-10 12:41:44.1816 DEBUG For Testing
+2023-08-10 12:41:44.1816 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:44.1816 DEBUG For Testing
+2023-08-10 12:41:44.1816 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:51.9076 DEBUG For Testing
+2023-08-10 12:41:51.9268 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se va a mostrar la lista de componentes
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se ha creado un nuevo componente 18
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9637 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 12:41:51.9637 DEBUG For Testing
+2023-08-10 12:41:51.9709 INFO Se esta editando el componente 1
+2023-08-10 12:41:51.9709 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 12:41:51.9709 DEBUG For Testing
+2023-08-10 12:41:51.9709 ERROR No se ha podido editar el componente 19
+2023-08-10 12:41:51.9709 DEBUG For Testing
+2023-08-10 12:41:51.9709 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 12:41:51.9709 DEBUG For Testing
+2023-08-10 12:41:51.9709 INFO Se esta eliminando el componente 1
+2023-08-10 12:41:51.9709 DEBUG For Testing
+2023-08-10 12:41:51.9709 WARN No se ha podido eliminar el componente 19
+2023-08-10 13:05:14.9909 INFO Linked Log to repository
+2023-08-10 13:05:15.2058 DEBUG For Testing
+2023-08-10 13:05:15.2058 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:11:38.7979 INFO Linked Log to repository
+2023-08-10 13:11:38.9533 DEBUG For Testing
+2023-08-10 13:11:38.9548 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:12:02.0045 INFO Linked Log to repository
+2023-08-10 13:12:02.0045 DEBUG For Testing
+2023-08-10 13:12:02.0045 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 13:12:30.4369 INFO Linked Log to repository
+2023-08-10 13:12:30.4369 DEBUG For Testing
+2023-08-10 13:12:30.4369 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:15:42.6905 INFO Linked Log to repository
+2023-08-10 13:15:42.9242 DEBUG For Testing
+2023-08-10 13:15:42.9242 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:15:46.5305 INFO Linked Log to repository
+2023-08-10 13:15:46.5370 DEBUG For Testing
+2023-08-10 13:15:46.5370 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:17:40.9791 INFO Linked Log to repository
+2023-08-10 13:17:41.1584 DEBUG For Testing
+2023-08-10 13:17:41.1584 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:17:46.7552 INFO Linked Log to repository
+2023-08-10 13:17:46.7552 DEBUG For Testing
+2023-08-10 13:17:46.7552 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 13:38:25.8799 INFO Linked Log to repository
+2023-08-10 13:38:26.0220 DEBUG For Testing
+2023-08-10 13:38:26.0220 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:38:31.1965 INFO Linked Log to repository
+2023-08-10 13:38:31.1965 DEBUG For Testing
+2023-08-10 13:38:31.2085 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 13:39:42.0098 INFO Linked Log to repository
+2023-08-10 13:39:42.1626 DEBUG For Testing
+2023-08-10 13:39:42.1626 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:40:06.7531 INFO Linked Log to repository
+2023-08-10 13:40:06.7531 DEBUG For Testing
+2023-08-10 13:40:06.7531 INFO Se va a mostrar la lista de componentes
+2023-08-10 13:43:23.2140 INFO Linked Log to repository
+2023-08-10 13:43:23.3737 DEBUG For Testing
+2023-08-10 13:43:23.3737 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:17:54.8448 INFO Linked Log to repository
+2023-08-10 14:17:54.9893 DEBUG For Testing
+2023-08-10 14:17:54.9893 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:18:00.6687 INFO Linked Log to repository
+2023-08-10 14:18:00.6738 DEBUG For Testing
+2023-08-10 14:18:00.6738 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:19:39.8140 DEBUG For Testing
+2023-08-10 14:19:39.8140 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:19:39.8701 DEBUG For Testing
+2023-08-10 14:19:39.8701 INFO Se va a mostrar los detalles del componente 0
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se ha creado un nuevo componente 19
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se esta eliminando el componente 1
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 WARN No se ha podido eliminar el componente 19
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:19:39.8769 DEBUG For Testing
+2023-08-10 14:19:39.8769 INFO Se esta editando el componente 1
+2023-08-10 14:19:39.8769 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:19:39.9025 DEBUG For Testing
+2023-08-10 14:19:39.9025 ERROR No se ha podido editar el componente 19
+2023-08-10 14:19:39.9025 DEBUG For Testing
+2023-08-10 14:19:39.9025 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:19:39.9025 DEBUG For Testing
+2023-08-10 14:19:39.9025 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:19:57.0327 DEBUG For Testing
+2023-08-10 14:19:57.0483 INFO Se va a mostrar los detalles del componente 2
+2023-08-10 14:19:57.0483 DEBUG For Testing
+2023-08-10 14:19:57.0483 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:19:57.0483 DEBUG For Testing
+2023-08-10 14:19:57.0483 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 14:19:57.0483 DEBUG For Testing
+2023-08-10 14:19:57.0483 INFO Se ha creado un nuevo componente 19
+2023-08-10 14:19:57.0483 DEBUG For Testing
+2023-08-10 14:19:57.0483 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 14:19:57.0483 DEBUG For Testing
+2023-08-10 14:19:57.0637 INFO Se esta eliminando el componente 1
+2023-08-10 14:19:57.0637 DEBUG For Testing
+2023-08-10 14:19:57.0637 WARN No se ha podido eliminar el componente 19
+2023-08-10 14:19:57.0637 DEBUG For Testing
+2023-08-10 14:19:57.0637 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:19:57.0637 DEBUG For Testing
+2023-08-10 14:19:57.0637 INFO Se esta editando el componente 1
+2023-08-10 14:19:57.0637 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:19:57.0866 DEBUG For Testing
+2023-08-10 14:19:57.0866 ERROR No se ha podido editar el componente 19
+2023-08-10 14:19:57.0866 DEBUG For Testing
+2023-08-10 14:19:57.0866 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:19:57.0866 DEBUG For Testing
+2023-08-10 14:19:57.0866 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:27:39.1587 INFO Linked Log to repository
+2023-08-10 14:27:39.3094 DEBUG For Testing
+2023-08-10 14:27:39.3094 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:27:46.3248 INFO Linked Log to repository
+2023-08-10 14:27:46.3308 DEBUG For Testing
+2023-08-10 14:27:46.3610 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 14:28:24.2382 INFO Linked Log to repository
+2023-08-10 14:28:24.3800 DEBUG For Testing
+2023-08-10 14:28:24.3800 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:28:28.4068 INFO Linked Log to repository
+2023-08-10 14:28:28.4127 DEBUG For Testing
+2023-08-10 14:28:28.4427 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-10 14:30:24.9779 INFO Linked Log to repository
+2023-08-10 14:30:25.1151 DEBUG For Testing
+2023-08-10 14:30:25.1151 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:30:30.7300 INFO Linked Log to repository
+2023-08-10 14:30:30.7300 DEBUG For Testing
+2023-08-10 14:30:30.7715 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:30:44.1266 INFO Linked Log to repository
+2023-08-10 14:30:44.1266 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:30:45.5391 INFO Linked Log to repository
+2023-08-10 14:30:45.5391 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-10 14:30:48.2155 INFO Linked Log to repository
+2023-08-10 14:30:48.2600 INFO Ordenador 0 añadido
+2023-08-10 14:30:48.3478 INFO Se ha creado un nuevo componente 1
+2023-08-10 14:30:48.3610 INFO Linked Log to repository
+2023-08-10 14:30:48.3610 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:30:51.9739 INFO Linked Log to repository
+2023-08-10 14:30:51.9739 DEBUG For Testing
+2023-08-10 14:30:51.9739 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:30:53.7595 INFO Linked Log to repository
+2023-08-10 14:30:53.7595 DEBUG For Testing
+2023-08-10 14:30:53.7595 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:43:03.7942 INFO Linked Log to repository
+2023-08-10 14:43:03.9635 DEBUG For Testing
+2023-08-10 14:43:03.9635 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:43:14.6725 INFO Linked Log to repository
+2023-08-10 14:43:14.6789 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:43:16.0124 INFO Linked Log to repository
+2023-08-10 14:43:16.0124 DEBUG For Testing
+2023-08-10 14:43:16.0124 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:46:46.2611 INFO Linked Log to repository
+2023-08-10 14:46:46.3947 DEBUG For Testing
+2023-08-10 14:46:46.3947 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:46:51.7590 INFO Linked Log to repository
+2023-08-10 14:46:51.7590 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:46:52.6872 INFO Linked Log to repository
+2023-08-10 14:46:52.6872 DEBUG For Testing
+2023-08-10 14:46:52.6872 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:46:54.4066 INFO Linked Log to repository
+2023-08-10 14:46:54.4066 DEBUG For Testing
+2023-08-10 14:46:54.4404 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:47:52.8040 INFO Linked Log to repository
+2023-08-10 14:47:52.9382 DEBUG For Testing
+2023-08-10 14:47:52.9391 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:48:02.4408 INFO Linked Log to repository
+2023-08-10 14:48:02.4408 DEBUG For Testing
+2023-08-10 14:48:02.4408 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:48:20.4830 INFO Linked Log to repository
+2023-08-10 14:48:20.4830 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:48:22.1768 INFO Linked Log to repository
+2023-08-10 14:48:22.1768 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-10 14:48:25.5055 INFO Linked Log to repository
+2023-08-10 14:48:25.5445 INFO Ordenador 0 añadido
+2023-08-10 14:48:25.6717 INFO Se ha creado un nuevo componente 3
+2023-08-10 14:48:25.6834 INFO Linked Log to repository
+2023-08-10 14:48:25.6834 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:48:32.7088 INFO Linked Log to repository
+2023-08-10 14:48:32.7088 DEBUG For Testing
+2023-08-10 14:48:32.7088 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:48:33.4329 INFO Linked Log to repository
+2023-08-10 14:48:33.4329 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:48:34.4613 INFO Linked Log to repository
+2023-08-10 14:48:34.4613 DEBUG For Testing
+2023-08-10 14:48:34.4613 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:49:56.1960 INFO Linked Log to repository
+2023-08-10 14:49:56.3300 DEBUG For Testing
+2023-08-10 14:49:56.3300 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:50:03.7701 INFO Linked Log to repository
+2023-08-10 14:50:03.7701 DEBUG For Testing
+2023-08-10 14:50:03.8092 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:50:10.3984 INFO Linked Log to repository
+2023-08-10 14:50:10.3984 DEBUG For Testing
+2023-08-10 14:50:10.3984 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:50:11.5937 INFO Linked Log to repository
+2023-08-10 14:50:11.5937 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:54:37.0269 INFO Linked Log to repository
+2023-08-10 14:54:37.1815 DEBUG For Testing
+2023-08-10 14:54:37.1815 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:54:44.0055 INFO Linked Log to repository
+2023-08-10 14:54:44.0055 DEBUG For Testing
+2023-08-10 14:54:44.0440 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:55:07.5957 INFO Linked Log to repository
+2023-08-10 14:55:07.7715 DEBUG For Testing
+2023-08-10 14:55:07.7715 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:55:08.2976 INFO Linked Log to repository
+2023-08-10 14:55:08.3037 DEBUG For Testing
+2023-08-10 14:55:08.3037 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:55:10.8287 INFO Linked Log to repository
+2023-08-10 14:55:10.8287 DEBUG For Testing
+2023-08-10 14:55:10.8637 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:55:12.6628 INFO Linked Log to repository
+2023-08-10 14:55:12.6628 DEBUG For Testing
+2023-08-10 14:55:12.6628 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:55:13.8541 INFO Linked Log to repository
+2023-08-10 14:55:13.8541 DEBUG For Testing
+2023-08-10 14:55:13.8541 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:57:22.0742 INFO Linked Log to repository
+2023-08-10 14:57:22.2163 DEBUG For Testing
+2023-08-10 14:57:22.2163 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:57:26.1574 INFO Linked Log to repository
+2023-08-10 14:57:26.1574 DEBUG For Testing
+2023-08-10 14:57:26.1574 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 14:57:32.2598 INFO Linked Log to repository
+2023-08-10 14:57:32.2598 DEBUG For Testing
+2023-08-10 14:57:32.2598 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:57:33.7183 INFO Linked Log to repository
+2023-08-10 14:57:33.7183 DEBUG For Testing
+2023-08-10 14:57:33.7474 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:57:39.9470 INFO Linked Log to repository
+2023-08-10 14:57:39.9470 DEBUG For Testing
+2023-08-10 14:57:39.9470 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:57:44.3557 INFO Linked Log to repository
+2023-08-10 14:57:44.3557 DEBUG For Testing
+2023-08-10 14:57:44.3557 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 14:57:46.5465 INFO Linked Log to repository
+2023-08-10 14:57:46.5465 DEBUG For Testing
+2023-08-10 14:57:46.5465 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:00:32.3305 INFO Linked Log to repository
+2023-08-10 15:00:32.4787 DEBUG For Testing
+2023-08-10 15:00:32.4787 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:00:43.6184 INFO Linked Log to repository
+2023-08-10 15:00:43.6184 DEBUG For Testing
+2023-08-10 15:00:43.6299 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-10 15:00:45.2963 INFO Linked Log to repository
+2023-08-10 15:00:45.2963 DEBUG For Testing
+2023-08-10 15:00:45.2963 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:00:46.5689 INFO Linked Log to repository
+2023-08-10 15:00:46.5689 DEBUG For Testing
+2023-08-10 15:00:46.5979 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 15:00:50.2321 INFO Linked Log to repository
+2023-08-10 15:00:50.2321 DEBUG For Testing
+2023-08-10 15:00:50.2321 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:02:52.0341 INFO Linked Log to repository
+2023-08-10 15:02:52.1876 DEBUG For Testing
+2023-08-10 15:02:52.1886 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:02:55.4240 INFO Linked Log to repository
+2023-08-10 15:02:55.4240 DEBUG For Testing
+2023-08-10 15:02:55.4631 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-10 15:02:57.0458 INFO Linked Log to repository
+2023-08-10 15:02:57.0458 DEBUG For Testing
+2023-08-10 15:02:57.0458 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:02:57.9812 INFO Linked Log to repository
+2023-08-10 15:02:57.9812 DEBUG For Testing
+2023-08-10 15:02:57.9812 INFO Se va a mostrar los detalles del componente 1
+2023-08-10 15:02:59.3887 INFO Linked Log to repository
+2023-08-10 15:02:59.3887 DEBUG For Testing
+2023-08-10 15:02:59.3887 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:05:04.9079 INFO Linked Log to repository
+2023-08-10 15:05:05.0501 DEBUG For Testing
+2023-08-10 15:05:05.0501 INFO Se va a mostrar la lista de componentes
+2023-08-10 15:05:12.3140 INFO Linked Log to repository
+2023-08-10 15:05:12.3140 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 15:05:13.8126 INFO Linked Log to repository
+2023-08-10 15:05:13.8185 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-10 15:05:19.4042 INFO Linked Log to repository
+2023-08-10 15:05:19.4182 INFO Se esta editando el ordenador 1
+2023-08-10 15:05:19.4336 INFO Linked Log to repository
+2023-08-10 15:05:19.4336 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 15:05:21.4272 INFO Linked Log to repository
+2023-08-10 15:05:21.4272 INFO Se va a mostrar la lista de ordenadores

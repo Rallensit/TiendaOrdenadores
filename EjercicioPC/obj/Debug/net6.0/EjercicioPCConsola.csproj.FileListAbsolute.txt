@@ -1,0 +1,14 @@
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\bin\Debug\net6.0\EjercicioPCConsola.exe
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\bin\Debug\net6.0\EjercicioPCConsola.deps.json
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\bin\Debug\net6.0\EjercicioPCConsola.runtimeconfig.json
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\bin\Debug\net6.0\EjercicioPCConsola.dll
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\bin\Debug\net6.0\EjercicioPCConsola.pdb
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.AssemblyInfoInputs.cache
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.AssemblyInfo.cs
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.csproj.CoreCompileInputs.cache
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.dll
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\refint\EjercicioPCConsola.dll
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.pdb
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\EjercicioPCConsola.genruntimeconfig.cache
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioPC\obj\Debug\net6.0\ref\EjercicioPCConsola.dll

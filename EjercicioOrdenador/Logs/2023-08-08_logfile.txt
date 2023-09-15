@@ -1,0 +1,61 @@
+2023-08-08 14:26:45.3613 INFO Linked Log to repository
+2023-08-08 14:26:45.5459 INFO Se va a mostrar la lista de componentes
+2023-08-08 22:48:14.2232 INFO Linked Log to repository
+2023-08-08 22:48:14.3640 INFO Se va a mostrar la lista de componentes
+2023-08-08 22:49:19.1419 INFO Linked Log to repository
+2023-08-08 22:49:19.2754 INFO Se va a mostrar la lista de componentes
+2023-08-08 22:53:45.4978 INFO Linked Log to repository
+2023-08-08 22:53:45.6357 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:03:16.0520 INFO Linked Log to repository
+2023-08-08 23:03:16.1909 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:03:21.3449 INFO Linked Log to repository
+2023-08-08 23:03:21.3449 INFO Se va a mostrar la lista de ordenadores
+2023-08-08 23:03:23.0243 INFO Linked Log to repository
+2023-08-08 23:03:23.0243 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-08 23:03:36.0350 INFO Linked Log to repository
+2023-08-08 23:03:36.1120 INFO Ordenador 0 añadido
+2023-08-08 23:03:36.2304 INFO Se ha creado un nuevo componente 1
+2023-08-08 23:03:36.2429 INFO Linked Log to repository
+2023-08-08 23:03:36.2429 INFO Se va a mostrar la lista de ordenadores
+2023-08-08 23:03:37.9173 INFO Linked Log to repository
+2023-08-08 23:03:37.9173 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-08 23:03:39.3809 INFO Linked Log to repository
+2023-08-08 23:03:39.3809 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:03:41.1026 INFO Linked Log to repository
+2023-08-08 23:03:41.1026 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-08 23:07:03.0732 INFO Linked Log to repository
+2023-08-08 23:07:03.2145 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:08:07.8145 INFO Linked Log to repository
+2023-08-08 23:08:07.9657 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:08:44.0497 INFO Linked Log to repository
+2023-08-08 23:08:44.1890 INFO Se va a mostrar la lista de ordenadores
+2023-08-08 23:08:47.3280 INFO Linked Log to repository
+2023-08-08 23:08:47.3394 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-08 23:08:52.7538 INFO Linked Log to repository
+2023-08-08 23:08:52.7538 INFO Se esta editando el ordenador 1
+2023-08-08 23:08:52.7767 INFO Linked Log to repository
+2023-08-08 23:08:52.7767 INFO Se va a mostrar la lista de ordenadores
+2023-08-08 23:08:54.8864 INFO Linked Log to repository
+2023-08-08 23:08:54.8864 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:08:57.6582 INFO Linked Log to repository
+2023-08-08 23:08:57.6582 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-08 23:10:00.4701 INFO Linked Log to repository
+2023-08-08 23:10:00.6056 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:10:01.9911 INFO Linked Log to repository
+2023-08-08 23:10:01.9911 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:10:03.7394 INFO Linked Log to repository
+2023-08-08 23:10:03.7394 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-08 23:10:16.3038 INFO Linked Log to repository
+2023-08-08 23:10:16.3038 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:10:17.3703 INFO Linked Log to repository
+2023-08-08 23:10:17.3703 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-08 23:12:23.8711 INFO Linked Log to repository
+2023-08-08 23:12:24.0059 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:12:26.6367 INFO Linked Log to repository
+2023-08-08 23:12:26.6472 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-08 23:14:00.2626 INFO Linked Log to repository
+2023-08-08 23:14:00.3991 INFO Se va a mostrar la lista de componentes
+2023-08-08 23:14:02.9374 INFO Linked Log to repository
+2023-08-08 23:14:02.9486 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-08 23:14:17.9398 INFO Linked Log to repository
+2023-08-08 23:14:17.9398 INFO Se va a mostrar la vista para editar el componente 1

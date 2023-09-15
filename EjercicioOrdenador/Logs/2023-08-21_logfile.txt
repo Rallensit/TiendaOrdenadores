@@ -1,0 +1,268 @@
+2023-08-21 08:21:35.9492 INFO Linked Log to repository
+2023-08-21 08:21:35.9701 DEBUG For Testing
+2023-08-21 08:21:35.9701 INFO Se va a mostrar la lista de componentes
+2023-08-21 08:23:04.2619 INFO Linked Log to repository
+2023-08-21 08:23:04.2852 DEBUG For Testing
+2023-08-21 08:23:04.2852 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:15:01.2775 INFO Linked Log to repository
+2023-08-21 10:15:01.3003 DEBUG For Testing
+2023-08-21 10:15:01.3003 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:15:10.3095 INFO Linked Log to repository
+2023-08-21 10:15:10.3095 DEBUG For Testing
+2023-08-21 10:15:10.3540 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:16:20.1137 INFO Linked Log to repository
+2023-08-21 10:16:20.1282 DEBUG For Testing
+2023-08-21 10:16:20.1418 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:16:24.6640 INFO Linked Log to repository
+2023-08-21 10:16:24.6640 INFO Se va a mostrar la lista de ordenadores
+2023-08-21 10:16:27.0431 INFO Linked Log to repository
+2023-08-21 10:16:27.0431 DEBUG For Testing
+2023-08-21 10:16:27.0431 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:16:29.5538 INFO Linked Log to repository
+2023-08-21 10:16:29.5538 DEBUG For Testing
+2023-08-21 10:16:29.5919 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:37:36.6903 INFO Linked Log to repository
+2023-08-21 10:37:36.7087 INFO Linked Log to repository
+2023-08-21 10:37:36.7087 DEBUG For Testing
+2023-08-21 10:37:36.7087 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:37:41.2100 INFO Linked Log to repository
+2023-08-21 10:37:41.2100 INFO Linked Log to repository
+2023-08-21 10:37:41.2100 DEBUG For Testing
+2023-08-21 10:37:41.2468 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:37:44.6915 INFO Linked Log to repository
+2023-08-21 10:37:44.6915 INFO Linked Log to repository
+2023-08-21 10:37:44.6915 DEBUG For Testing
+2023-08-21 10:37:44.6915 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:37:46.0395 INFO Linked Log to repository
+2023-08-21 10:37:46.0395 INFO Linked Log to repository
+2023-08-21 10:37:46.0395 DEBUG For Testing
+2023-08-21 10:37:46.0479 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-21 10:38:11.1166 INFO Linked Log to repository
+2023-08-21 10:38:11.1166 INFO Linked Log to repository
+2023-08-21 10:38:11.1166 DEBUG For Testing
+2023-08-21 10:38:11.1548 INFO Componente 0 añadido
+2023-08-21 10:38:11.2563 INFO Se ha creado un nuevo componente 20
+2023-08-21 10:38:13.9188 INFO Linked Log to repository
+2023-08-21 10:38:13.9188 INFO Linked Log to repository
+2023-08-21 10:38:13.9188 DEBUG For Testing
+2023-08-21 10:38:13.9188 INFO Componente 0 añadido
+2023-08-21 10:38:13.9261 INFO Se ha creado un nuevo componente 21
+2023-08-21 10:38:18.8638 INFO Linked Log to repository
+2023-08-21 10:38:18.8638 INFO Linked Log to repository
+2023-08-21 10:38:18.8638 DEBUG For Testing
+2023-08-21 10:38:18.8638 INFO Componente 0 añadido
+2023-08-21 10:38:18.8638 INFO Se ha creado un nuevo componente 22
+2023-08-21 10:38:20.2502 INFO Linked Log to repository
+2023-08-21 10:38:20.2502 INFO Linked Log to repository
+2023-08-21 10:38:20.2502 DEBUG For Testing
+2023-08-21 10:38:20.2502 INFO Componente 0 añadido
+2023-08-21 10:38:20.2547 INFO Se ha creado un nuevo componente 23
+2023-08-21 10:38:20.7541 INFO Linked Log to repository
+2023-08-21 10:38:20.7541 INFO Linked Log to repository
+2023-08-21 10:38:20.7541 DEBUG For Testing
+2023-08-21 10:38:20.7541 INFO Componente 0 añadido
+2023-08-21 10:38:20.7541 INFO Se ha creado un nuevo componente 24
+2023-08-21 10:38:25.6576 INFO Linked Log to repository
+2023-08-21 10:38:25.6780 INFO Linked Log to repository
+2023-08-21 10:38:25.6780 DEBUG For Testing
+2023-08-21 10:38:25.6780 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:38:42.3709 INFO Linked Log to repository
+2023-08-21 10:38:42.3709 INFO Linked Log to repository
+2023-08-21 10:38:42.3709 DEBUG For Testing
+2023-08-21 10:38:42.3786 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:38:44.2860 INFO Linked Log to repository
+2023-08-21 10:38:44.2860 INFO Linked Log to repository
+2023-08-21 10:38:44.2860 DEBUG For Testing
+2023-08-21 10:38:44.3412 INFO Se esta eliminando el componente 24
+2023-08-21 10:38:46.1121 INFO Linked Log to repository
+2023-08-21 10:38:46.1121 INFO Linked Log to repository
+2023-08-21 10:38:46.1121 DEBUG For Testing
+2023-08-21 10:38:46.1121 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:38:47.1871 INFO Linked Log to repository
+2023-08-21 10:38:47.1871 INFO Linked Log to repository
+2023-08-21 10:38:47.1871 DEBUG For Testing
+2023-08-21 10:38:47.1919 INFO Se esta eliminando el componente 24
+2023-08-21 10:38:49.9353 INFO Linked Log to repository
+2023-08-21 10:38:49.9353 INFO Linked Log to repository
+2023-08-21 10:38:49.9353 DEBUG For Testing
+2023-08-21 10:38:49.9353 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:38:51.2772 INFO Linked Log to repository
+2023-08-21 10:38:51.2772 INFO Linked Log to repository
+2023-08-21 10:38:51.2772 DEBUG For Testing
+2023-08-21 10:38:51.2772 INFO Se esta eliminando el componente 24
+2023-08-21 10:38:56.9652 INFO Linked Log to repository
+2023-08-21 10:38:56.9652 INFO Linked Log to repository
+2023-08-21 10:38:56.9652 DEBUG For Testing
+2023-08-21 10:38:56.9652 INFO Se esta eliminando el componente 24
+2023-08-21 10:39:01.9140 INFO Linked Log to repository
+2023-08-21 10:39:01.9140 INFO Linked Log to repository
+2023-08-21 10:39:01.9140 DEBUG For Testing
+2023-08-21 10:39:01.9140 INFO Se va a mostrar la vista para eliminar el componente 23
+2023-08-21 10:39:04.0453 INFO Linked Log to repository
+2023-08-21 10:39:04.0453 INFO Linked Log to repository
+2023-08-21 10:39:04.0453 DEBUG For Testing
+2023-08-21 10:39:04.0489 INFO Se esta eliminando el componente 23
+2023-08-21 10:39:10.5729 INFO Linked Log to repository
+2023-08-21 10:39:10.5958 INFO Linked Log to repository
+2023-08-21 10:39:10.5958 DEBUG For Testing
+2023-08-21 10:39:10.5958 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:39:35.2035 INFO Linked Log to repository
+2023-08-21 10:39:35.2035 INFO Linked Log to repository
+2023-08-21 10:39:35.2045 DEBUG For Testing
+2023-08-21 10:39:35.2492 INFO Se va a mostrar la vista para editar el componente 24
+2023-08-21 10:39:36.9932 INFO Linked Log to repository
+2023-08-21 10:39:36.9932 INFO Linked Log to repository
+2023-08-21 10:39:36.9932 DEBUG For Testing
+2023-08-21 10:39:37.1347 INFO Se esta editando el componente 24
+2023-08-21 10:39:39.4367 INFO Linked Log to repository
+2023-08-21 10:39:39.4367 INFO Linked Log to repository
+2023-08-21 10:39:39.4367 DEBUG For Testing
+2023-08-21 10:39:39.4367 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:39:41.0254 INFO Linked Log to repository
+2023-08-21 10:39:41.0254 INFO Linked Log to repository
+2023-08-21 10:39:41.0254 DEBUG For Testing
+2023-08-21 10:39:41.0328 INFO Se esta eliminando el componente 24
+2023-08-21 10:39:44.3456 INFO Linked Log to repository
+2023-08-21 10:39:44.3456 INFO Linked Log to repository
+2023-08-21 10:39:44.3456 DEBUG For Testing
+2023-08-21 10:39:44.3456 INFO Se esta eliminando el componente 24
+2023-08-21 10:41:36.8773 INFO Linked Log to repository
+2023-08-21 10:41:36.8952 INFO Linked Log to repository
+2023-08-21 10:41:36.8952 DEBUG For Testing
+2023-08-21 10:41:36.8952 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:41:42.0507 INFO Linked Log to repository
+2023-08-21 10:41:42.0507 INFO Linked Log to repository
+2023-08-21 10:41:42.0507 DEBUG For Testing
+2023-08-21 10:41:42.0507 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:41:43.7602 INFO Linked Log to repository
+2023-08-21 10:41:43.7602 INFO Linked Log to repository
+2023-08-21 10:41:43.7602 DEBUG For Testing
+2023-08-21 10:41:43.8089 INFO Componente eliminado
+2023-08-21 10:41:43.8089 INFO Se esta eliminando el componente 24
+2023-08-21 10:41:47.1045 INFO Linked Log to repository
+2023-08-21 10:41:47.1045 INFO Linked Log to repository
+2023-08-21 10:41:47.1045 DEBUG For Testing
+2023-08-21 10:41:47.1045 INFO Componente eliminado
+2023-08-21 10:41:47.1045 INFO Se esta eliminando el componente 24
+2023-08-21 10:44:02.9504 INFO Linked Log to repository
+2023-08-21 10:44:02.9706 INFO Linked Log to repository
+2023-08-21 10:44:02.9706 DEBUG For Testing
+2023-08-21 10:44:02.9706 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:44:14.4267 INFO Linked Log to repository
+2023-08-21 10:44:14.4267 INFO Linked Log to repository
+2023-08-21 10:44:14.4267 DEBUG For Testing
+2023-08-21 10:44:14.4267 INFO Se va a mostrar la vista para eliminar el componente 24
+2023-08-21 10:44:15.6318 INFO Linked Log to repository
+2023-08-21 10:44:15.6318 INFO Linked Log to repository
+2023-08-21 10:44:15.6318 DEBUG For Testing
+2023-08-21 10:44:15.6833 INFO Componente eliminado
+2023-08-21 10:44:15.7655 INFO Se esta eliminando el componente 24
+2023-08-21 10:44:27.9648 INFO Linked Log to repository
+2023-08-21 10:44:27.9648 INFO Linked Log to repository
+2023-08-21 10:44:27.9648 DEBUG For Testing
+2023-08-21 10:44:27.9648 INFO Se va a mostrar la vista para eliminar el componente 23
+2023-08-21 10:44:29.0979 INFO Linked Log to repository
+2023-08-21 10:44:29.0979 INFO Linked Log to repository
+2023-08-21 10:44:29.0979 DEBUG For Testing
+2023-08-21 10:44:29.0979 INFO Componente eliminado
+2023-08-21 10:44:29.1111 INFO Se esta eliminando el componente 23
+2023-08-21 10:44:30.7009 INFO Linked Log to repository
+2023-08-21 10:44:30.7009 INFO Linked Log to repository
+2023-08-21 10:44:30.7009 DEBUG For Testing
+2023-08-21 10:44:30.7009 INFO Se va a mostrar la vista para eliminar el componente 22
+2023-08-21 10:44:31.8278 INFO Linked Log to repository
+2023-08-21 10:44:31.8278 INFO Linked Log to repository
+2023-08-21 10:44:31.8278 DEBUG For Testing
+2023-08-21 10:44:31.8322 INFO Componente eliminado
+2023-08-21 10:44:31.8322 INFO Se esta eliminando el componente 22
+2023-08-21 10:44:33.3257 INFO Linked Log to repository
+2023-08-21 10:44:33.3257 INFO Linked Log to repository
+2023-08-21 10:44:33.3257 DEBUG For Testing
+2023-08-21 10:44:33.3257 INFO Se va a mostrar la vista para eliminar el componente 21
+2023-08-21 10:44:34.3499 INFO Linked Log to repository
+2023-08-21 10:44:34.3499 INFO Linked Log to repository
+2023-08-21 10:44:34.3499 DEBUG For Testing
+2023-08-21 10:44:34.3499 INFO Componente eliminado
+2023-08-21 10:44:34.3499 INFO Se esta eliminando el componente 21
+2023-08-21 10:44:36.9232 INFO Linked Log to repository
+2023-08-21 10:44:36.9232 INFO Linked Log to repository
+2023-08-21 10:44:36.9232 DEBUG For Testing
+2023-08-21 10:44:36.9477 WARN No se ha podido eliminar el componente 21
+2023-08-21 10:44:40.4643 INFO Linked Log to repository
+2023-08-21 10:44:40.4643 INFO Linked Log to repository
+2023-08-21 10:44:40.4643 DEBUG For Testing
+2023-08-21 10:44:40.4643 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:44:41.6993 INFO Linked Log to repository
+2023-08-21 10:44:41.6993 INFO Linked Log to repository
+2023-08-21 10:44:41.6993 DEBUG For Testing
+2023-08-21 10:44:41.6993 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:47:06.0084 INFO Linked Log to repository
+2023-08-21 10:47:06.0226 INFO Linked Log to repository
+2023-08-21 10:47:06.0336 DEBUG For Testing
+2023-08-21 10:47:06.0336 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:47:11.1617 INFO Linked Log to repository
+2023-08-21 10:47:11.1617 INFO Linked Log to repository
+2023-08-21 10:47:11.1617 DEBUG For Testing
+2023-08-21 10:47:11.2186 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:47:15.4060 INFO Linked Log to repository
+2023-08-21 10:47:15.4060 INFO Linked Log to repository
+2023-08-21 10:47:15.4060 DEBUG For Testing
+2023-08-21 10:47:15.5464 INFO Se esta editando el componente 2
+2023-08-21 10:47:17.5654 INFO Linked Log to repository
+2023-08-21 10:47:17.5654 INFO Linked Log to repository
+2023-08-21 10:47:17.5654 DEBUG For Testing
+2023-08-21 10:47:17.5654 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:48:08.5115 INFO Linked Log to repository
+2023-08-21 10:48:08.5115 INFO Linked Log to repository
+2023-08-21 10:48:08.5115 DEBUG For Testing
+2023-08-21 10:48:08.5115 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:48:13.4150 INFO Linked Log to repository
+2023-08-21 10:48:13.4150 INFO Linked Log to repository
+2023-08-21 10:48:13.4150 DEBUG For Testing
+2023-08-21 10:48:13.4150 INFO Se va a mostrar la vista para editar el componente 3
+2023-08-21 10:48:18.1498 INFO Linked Log to repository
+2023-08-21 10:48:18.1498 INFO Linked Log to repository
+2023-08-21 10:48:18.1498 DEBUG For Testing
+2023-08-21 10:48:18.1498 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:50:43.3085 INFO Linked Log to repository
+2023-08-21 10:50:43.3308 INFO Linked Log to repository
+2023-08-21 10:50:43.3308 DEBUG For Testing
+2023-08-21 10:50:43.3308 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:50:47.4797 INFO Linked Log to repository
+2023-08-21 10:50:47.4797 INFO Linked Log to repository
+2023-08-21 10:50:47.4797 DEBUG For Testing
+2023-08-21 10:50:47.5283 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-21 10:51:06.0652 INFO Linked Log to repository
+2023-08-21 10:51:06.0652 INFO Linked Log to repository
+2023-08-21 10:51:06.0652 DEBUG For Testing
+2023-08-21 10:51:06.1437 INFO Componente 0 añadido
+2023-08-21 10:55:53.9291 INFO Linked Log to repository
+2023-08-21 10:55:53.9430 INFO Linked Log to repository
+2023-08-21 10:55:53.9430 DEBUG For Testing
+2023-08-21 10:55:53.9430 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:56:00.5303 INFO Linked Log to repository
+2023-08-21 10:56:00.5303 INFO Linked Log to repository
+2023-08-21 10:56:00.5303 DEBUG For Testing
+2023-08-21 10:56:00.5792 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-21 10:56:10.7335 INFO Linked Log to repository
+2023-08-21 10:56:10.7335 INFO Linked Log to repository
+2023-08-21 10:56:10.7335 DEBUG For Testing
+2023-08-21 10:56:10.8065 INFO Componente 0 añadido
+2023-08-21 10:58:27.5650 INFO Linked Log to repository
+2023-08-21 10:58:27.5827 INFO Linked Log to repository
+2023-08-21 10:58:27.5951 DEBUG For Testing
+2023-08-21 10:58:27.5951 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:30.9684 INFO Linked Log to repository
+2023-08-21 10:58:30.9684 INFO Linked Log to repository
+2023-08-21 10:58:30.9684 DEBUG For Testing
+2023-08-21 10:58:31.0333 INFO Se va a mostrar la vista para editar el componente 2
+2023-08-21 10:58:32.4056 INFO Linked Log to repository
+2023-08-21 10:58:32.4056 INFO Linked Log to repository
+2023-08-21 10:58:32.4056 DEBUG For Testing
+2023-08-21 10:58:32.4056 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:37.9705 INFO Linked Log to repository
+2023-08-21 10:58:37.9705 INFO Se va a mostrar la lista de ordenadores
+2023-08-21 10:58:39.5159 INFO Linked Log to repository
+2023-08-21 10:58:39.5159 INFO Linked Log to repository
+2023-08-21 10:58:39.5159 DEBUG For Testing
+2023-08-21 10:58:39.5159 INFO Se va a mostrar la lista de componentes

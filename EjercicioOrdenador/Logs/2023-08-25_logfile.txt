@@ -1,0 +1,106 @@
+2023-08-25 09:28:05.5666 INFO Linked Log to repository
+2023-08-25 09:28:05.5839 INFO Linked Log to repository
+2023-08-25 09:28:05.5954 DEBUG For Testing
+2023-08-25 09:28:05.5954 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:31:03.4129 INFO Linked Log to repository
+2023-08-25 09:31:03.4391 INFO Linked Log to repository
+2023-08-25 09:31:03.4391 DEBUG For Testing
+2023-08-25 09:31:03.4391 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:31:59.8248 INFO Linked Log to repository
+2023-08-25 09:31:59.8485 INFO Linked Log to repository
+2023-08-25 09:31:59.8485 DEBUG For Testing
+2023-08-25 09:31:59.8485 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:33:43.4623 INFO Linked Log to repository
+2023-08-25 09:33:43.4859 INFO Linked Log to repository
+2023-08-25 09:33:43.4859 DEBUG For Testing
+2023-08-25 09:33:43.4859 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:34:09.6030 INFO Linked Log to repository
+2023-08-25 09:34:09.6163 INFO Linked Log to repository
+2023-08-25 09:34:09.6163 DEBUG For Testing
+2023-08-25 09:34:09.6266 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:34:29.8370 INFO Linked Log to repository
+2023-08-25 09:34:29.8621 INFO Linked Log to repository
+2023-08-25 09:34:29.8621 DEBUG For Testing
+2023-08-25 09:34:29.8621 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:34:47.0106 INFO Linked Log to repository
+2023-08-25 09:34:47.0337 INFO Linked Log to repository
+2023-08-25 09:34:47.0337 DEBUG For Testing
+2023-08-25 09:34:47.0337 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:35:06.9796 INFO Linked Log to repository
+2023-08-25 09:35:07.0022 INFO Linked Log to repository
+2023-08-25 09:35:07.0022 DEBUG For Testing
+2023-08-25 09:35:07.0022 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:35:17.6441 INFO Linked Log to repository
+2023-08-25 09:35:17.6596 INFO Linked Log to repository
+2023-08-25 09:35:17.6596 DEBUG For Testing
+2023-08-25 09:35:17.6596 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:35:34.5097 INFO Linked Log to repository
+2023-08-25 09:35:34.5348 INFO Linked Log to repository
+2023-08-25 09:35:34.5348 DEBUG For Testing
+2023-08-25 09:35:34.5348 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:36:08.4139 INFO Linked Log to repository
+2023-08-25 09:36:08.4274 INFO Linked Log to repository
+2023-08-25 09:36:08.4274 DEBUG For Testing
+2023-08-25 09:36:08.4274 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:36:13.4938 INFO Linked Log to repository
+2023-08-25 09:36:13.4938 INFO Linked Log to repository
+2023-08-25 09:36:13.4938 DEBUG For Testing
+2023-08-25 09:36:13.4938 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:36:23.8320 INFO Linked Log to repository
+2023-08-25 09:36:23.8456 INFO Linked Log to repository
+2023-08-25 09:36:23.8456 DEBUG For Testing
+2023-08-25 09:36:23.8456 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:36:36.1382 INFO Linked Log to repository
+2023-08-25 09:36:36.1575 INFO Linked Log to repository
+2023-08-25 09:36:36.1575 DEBUG For Testing
+2023-08-25 09:36:36.1575 INFO Se va a mostrar la lista de componentes
+2023-08-25 09:38:18.1039 INFO Linked Log to repository
+2023-08-25 09:38:18.1283 INFO Linked Log to repository
+2023-08-25 09:38:18.1283 DEBUG For Testing
+2023-08-25 09:38:18.1283 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:44:20.7840 INFO Linked Log to repository
+2023-08-25 11:44:20.7983 INFO Linked Log to repository
+2023-08-25 11:44:20.7983 DEBUG For Testing
+2023-08-25 11:44:20.7983 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:45:53.7224 INFO Linked Log to repository
+2023-08-25 11:45:53.7363 INFO Linked Log to repository
+2023-08-25 11:45:53.7363 DEBUG For Testing
+2023-08-25 11:45:53.7363 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:56:56.5737 INFO Linked Log to repository
+2023-08-25 11:56:56.5737 INFO Linked Log to repository
+2023-08-25 11:56:56.5737 DEBUG For Testing
+2023-08-25 11:56:56.5737 INFO Se va a mostrar la lista de componentes
+2023-08-25 11:57:37.0815 INFO Linked Log to repository
+2023-08-25 11:57:37.0969 INFO Linked Log to repository
+2023-08-25 11:57:37.0969 DEBUG For Testing
+2023-08-25 11:57:37.0969 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:17:02.9723 INFO Linked Log to repository
+2023-08-25 12:17:02.9880 INFO Linked Log to repository
+2023-08-25 12:17:02.9880 DEBUG For Testing
+2023-08-25 12:17:31.5994 INFO Linked Log to repository
+2023-08-25 12:17:31.6264 INFO Linked Log to repository
+2023-08-25 12:17:31.6440 DEBUG For Testing
+2023-08-25 12:23:47.7414 INFO Linked Log to repository
+2023-08-25 12:23:47.7563 INFO Linked Log to repository
+2023-08-25 12:23:47.7675 DEBUG For Testing
+2023-08-25 12:23:50.7522 INFO Linked Log to repository
+2023-08-25 12:23:50.7522 INFO Linked Log to repository
+2023-08-25 12:23:50.7522 DEBUG For Testing
+2023-08-25 12:23:50.7522 INFO Se va a mostrar la lista de componentes
+2023-08-25 12:23:54.8210 INFO Linked Log to repository
+2023-08-25 12:23:54.8210 INFO Linked Log to repository
+2023-08-25 12:23:54.8210 DEBUG For Testing
+2023-08-25 12:23:56.0389 INFO Linked Log to repository
+2023-08-25 12:23:56.0389 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 12:24:31.5230 INFO Linked Log to repository
+2023-08-25 12:24:31.5369 INFO Linked Log to repository
+2023-08-25 12:24:31.5369 DEBUG For Testing
+2023-08-25 12:24:33.4850 INFO Linked Log to repository
+2023-08-25 12:24:33.4850 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 12:24:58.1688 INFO Linked Log to repository
+2023-08-25 12:24:58.1898 INFO Linked Log to repository
+2023-08-25 12:24:58.1898 DEBUG For Testing
+2023-08-25 12:25:00.4218 INFO Linked Log to repository
+2023-08-25 12:25:00.4218 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 12:25:25.5623 INFO Linked Log to repository
+2023-08-25 12:25:25.5705 INFO Se va a mostrar los detalles del ordenador 1

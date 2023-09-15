@@ -1,0 +1,424 @@
+2023-08-18 11:58:38.2371 DEBUG For Testing
+2023-08-18 11:58:38.2371 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 11:58:38.2763 DEBUG For Testing
+2023-08-18 11:58:38.2763 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 11:58:38.2763 DEBUG For Testing
+2023-08-18 11:58:38.2763 INFO Se va a mostrar la lista de componentes
+2023-08-18 11:58:38.2763 DEBUG For Testing
+2023-08-18 11:58:38.2763 INFO Se va a mostrar la lista de componentes
+2023-08-18 11:58:38.2763 DEBUG For Testing
+2023-08-18 11:58:38.3095 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 11:58:38.3095 DEBUG For Testing
+2023-08-18 11:58:38.3095 INFO Se ha creado un nuevo componente 19
+2023-08-18 11:58:38.3095 DEBUG For Testing
+2023-08-18 11:58:38.3095 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 11:58:38.3095 DEBUG For Testing
+2023-08-18 11:58:38.3095 INFO Se esta editando el componente 1
+2023-08-18 11:58:38.3095 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 11:58:38.3095 DEBUG For Testing
+2023-08-18 11:58:38.3137 ERROR No se ha podido editar el componente 19
+2023-08-18 11:58:38.3137 DEBUG For Testing
+2023-08-18 11:58:38.3137 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 11:58:38.3137 DEBUG For Testing
+2023-08-18 11:58:38.3137 INFO Se esta eliminando el componente 1
+2023-08-18 11:58:38.3137 DEBUG For Testing
+2023-08-18 11:58:38.3137 WARN No se ha podido eliminar el componente 19
+2023-08-18 11:58:38.4228 INFO Linked Log to repository
+2023-08-18 11:58:38.4228 INFO Linked Log to repository
+2023-08-18 11:58:45.2671 DEBUG For Testing
+2023-08-18 11:58:45.2851 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 11:58:45.3234 DEBUG For Testing
+2023-08-18 11:58:45.3234 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 11:58:45.3234 DEBUG For Testing
+2023-08-18 11:58:45.3234 INFO Se va a mostrar la lista de componentes
+2023-08-18 11:58:45.3234 DEBUG For Testing
+2023-08-18 11:58:45.3234 INFO Se va a mostrar la lista de componentes
+2023-08-18 11:58:45.3234 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se ha creado un nuevo componente 19
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se esta editando el componente 1
+2023-08-18 11:58:45.4100 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 ERROR No se ha podido editar el componente 19
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 INFO Se esta eliminando el componente 1
+2023-08-18 11:58:45.4100 DEBUG For Testing
+2023-08-18 11:58:45.4100 WARN No se ha podido eliminar el componente 19
+2023-08-18 11:58:45.5221 INFO Linked Log to repository
+2023-08-18 11:58:45.5221 INFO Linked Log to repository
+2023-08-18 13:53:02.0171 DEBUG For Testing
+2023-08-18 13:53:02.0331 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 13:53:02.0492 DEBUG For Testing
+2023-08-18 13:53:02.0492 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:53:02.0492 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se ha creado un nuevo componente 19
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se esta eliminando el componente 1
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 WARN No se ha podido eliminar el componente 19
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 13:53:02.0728 DEBUG For Testing
+2023-08-18 13:53:02.0728 INFO Se esta editando el componente 1
+2023-08-18 13:53:02.0728 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:53:02.0962 DEBUG For Testing
+2023-08-18 13:53:02.0962 ERROR No se ha podido editar el componente 19
+2023-08-18 13:53:02.0962 DEBUG For Testing
+2023-08-18 13:53:02.0962 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:53:02.0962 DEBUG For Testing
+2023-08-18 13:53:02.0962 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:53:02.0962 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 13:53:02.0962 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 13:53:02.1277 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 13:53:02.1277 INFO Se esta eliminando el ordenador 1
+2023-08-18 13:53:02.1277 INFO Se esta eliminando el ordenador 19
+2023-08-18 13:53:02.1277 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 13:53:02.1277 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:53:02.1277 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:53:02.1277 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 13:53:02.2153 INFO Linked Log to repository
+2023-08-18 13:53:02.2153 INFO Linked Log to repository
+2023-08-18 13:53:48.7836 DEBUG For Testing
+2023-08-18 13:53:48.8006 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 13:53:48.8191 DEBUG For Testing
+2023-08-18 13:53:48.8191 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:53:48.8191 DEBUG For Testing
+2023-08-18 13:53:48.8429 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 13:53:48.8429 DEBUG For Testing
+2023-08-18 13:53:48.8429 INFO Se ha creado un nuevo componente 19
+2023-08-18 13:53:48.8429 DEBUG For Testing
+2023-08-18 13:53:48.8429 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 13:53:48.8429 DEBUG For Testing
+2023-08-18 13:53:48.8429 INFO Se esta eliminando el componente 1
+2023-08-18 13:53:48.8429 DEBUG For Testing
+2023-08-18 13:53:48.8448 WARN No se ha podido eliminar el componente 19
+2023-08-18 13:53:48.8448 DEBUG For Testing
+2023-08-18 13:53:48.8448 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 13:53:48.8448 DEBUG For Testing
+2023-08-18 13:53:48.8448 INFO Se esta editando el componente 1
+2023-08-18 13:53:48.8448 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:53:48.8673 DEBUG For Testing
+2023-08-18 13:53:48.8673 ERROR No se ha podido editar el componente 19
+2023-08-18 13:53:48.8673 DEBUG For Testing
+2023-08-18 13:53:48.8673 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:53:48.8673 DEBUG For Testing
+2023-08-18 13:53:48.8673 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:53:48.8673 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 13:53:48.8673 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 13:53:48.8809 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 13:53:48.8809 INFO Se esta eliminando el ordenador 1
+2023-08-18 13:53:48.8809 INFO Se esta eliminando el ordenador 19
+2023-08-18 13:53:48.8809 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 13:53:48.8809 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:53:48.8809 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:53:48.8809 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 13:53:48.9682 INFO Linked Log to repository
+2023-08-18 13:53:48.9682 INFO Linked Log to repository
+2023-08-18 13:54:13.8295 DEBUG For Testing
+2023-08-18 13:54:13.8458 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 13:54:13.8638 DEBUG For Testing
+2023-08-18 13:54:13.8638 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:54:13.8638 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se ha creado un nuevo componente 19
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se esta eliminando el componente 1
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 WARN No se ha podido eliminar el componente 19
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 13:54:13.8882 DEBUG For Testing
+2023-08-18 13:54:13.8882 INFO Se esta editando el componente 1
+2023-08-18 13:54:13.8914 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 13:54:13.9139 DEBUG For Testing
+2023-08-18 13:54:13.9139 ERROR No se ha podido editar el componente 19
+2023-08-18 13:54:13.9139 DEBUG For Testing
+2023-08-18 13:54:13.9139 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:54:13.9139 DEBUG For Testing
+2023-08-18 13:54:13.9139 INFO Se va a mostrar la lista de componentes
+2023-08-18 13:54:13.9139 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 13:54:13.9139 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 13:54:13.9290 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 13:54:13.9290 INFO Se esta eliminando el ordenador 1
+2023-08-18 13:54:13.9290 INFO Se esta eliminando el ordenador 19
+2023-08-18 13:54:13.9290 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 13:54:13.9290 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:54:13.9290 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 13:54:13.9290 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 13:54:14.0205 INFO Linked Log to repository
+2023-08-18 13:54:14.0205 INFO Linked Log to repository
+2023-08-18 14:01:42.9702 DEBUG For Testing
+2023-08-18 14:01:42.9702 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:01:42.9948 DEBUG For Testing
+2023-08-18 14:01:42.9948 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:01:42.9948 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se esta eliminando el componente 1
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:01:43.0213 DEBUG For Testing
+2023-08-18 14:01:43.0213 INFO Se esta editando el componente 1
+2023-08-18 14:01:43.0213 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:01:43.0481 DEBUG For Testing
+2023-08-18 14:01:43.0481 ERROR No se ha podido editar el componente 19
+2023-08-18 14:01:43.0481 DEBUG For Testing
+2023-08-18 14:01:43.0481 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:01:43.0481 DEBUG For Testing
+2023-08-18 14:01:43.0481 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:01:43.0481 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:01:43.0481 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:01:43.0481 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:01:43.0481 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:01:43.0481 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:01:43.0481 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:01:43.0641 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:01:43.0641 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:01:43.0641 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:01:43.1442 INFO Linked Log to repository
+2023-08-18 14:01:43.1442 INFO Linked Log to repository
+2023-08-18 14:02:07.9078 DEBUG For Testing
+2023-08-18 14:02:07.9244 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:02:07.9244 DEBUG For Testing
+2023-08-18 14:02:07.9244 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:02:07.9244 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se esta eliminando el componente 1
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:02:07.9596 DEBUG For Testing
+2023-08-18 14:02:07.9596 INFO Se esta editando el componente 1
+2023-08-18 14:02:07.9596 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:02:07.9837 DEBUG For Testing
+2023-08-18 14:02:07.9837 ERROR No se ha podido editar el componente 19
+2023-08-18 14:02:07.9837 DEBUG For Testing
+2023-08-18 14:02:07.9837 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:02:07.9837 DEBUG For Testing
+2023-08-18 14:02:07.9837 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:02:07.9837 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:02:07.9866 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:02:07.9866 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:02:07.9866 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:02:07.9866 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:02:07.9866 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:02:07.9866 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:02:08.0012 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:02:08.0012 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:02:08.0784 INFO Linked Log to repository
+2023-08-18 14:02:08.0784 INFO Linked Log to repository
+2023-08-18 14:02:18.3606 DEBUG For Testing
+2023-08-18 14:02:18.3764 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:02:18.3764 DEBUG For Testing
+2023-08-18 14:02:18.3764 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:02:18.3919 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se esta eliminando el componente 1
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:02:18.4167 DEBUG For Testing
+2023-08-18 14:02:18.4167 INFO Se esta editando el componente 1
+2023-08-18 14:02:18.4167 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:02:18.4429 DEBUG For Testing
+2023-08-18 14:02:18.4429 ERROR No se ha podido editar el componente 19
+2023-08-18 14:02:18.4429 DEBUG For Testing
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:02:18.4429 DEBUG For Testing
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:02:18.4429 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:02:18.4429 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:02:18.4429 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:02:18.4429 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:02:18.4429 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:02:18.5307 INFO Linked Log to repository
+2023-08-18 14:02:18.5307 INFO Linked Log to repository
+2023-08-18 14:03:05.9553 DEBUG For Testing
+2023-08-18 14:03:05.9707 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:03:05.9707 DEBUG For Testing
+2023-08-18 14:03:05.9707 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:03:05.9707 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se esta eliminando el componente 1
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:03:06.0083 DEBUG For Testing
+2023-08-18 14:03:06.0083 INFO Se esta editando el componente 1
+2023-08-18 14:03:06.0083 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:03:06.0449 DEBUG For Testing
+2023-08-18 14:03:06.0449 ERROR No se ha podido editar el componente 19
+2023-08-18 14:03:06.0449 DEBUG For Testing
+2023-08-18 14:03:06.0449 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:03:06.0449 DEBUG For Testing
+2023-08-18 14:03:06.0449 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:03:06.0449 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:03:06.0449 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:03:06.0449 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:03:06.0449 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:03:06.0449 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:03:06.0449 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:03:06.0492 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:03:06.0492 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:03:06.0492 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:03:06.1295 INFO Linked Log to repository
+2023-08-18 14:03:06.1295 INFO Linked Log to repository
+2023-08-18 14:03:15.7978 DEBUG For Testing
+2023-08-18 14:03:15.8213 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:03:15.8567 DEBUG For Testing
+2023-08-18 14:03:15.8567 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:03:15.8567 DEBUG For Testing
+2023-08-18 14:03:15.8567 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:03:15.8567 DEBUG For Testing
+2023-08-18 14:03:15.8567 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:03:15.8567 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se esta editando el componente 1
+2023-08-18 14:03:15.9400 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 ERROR No se ha podido editar el componente 19
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 INFO Se esta eliminando el componente 1
+2023-08-18 14:03:15.9400 DEBUG For Testing
+2023-08-18 14:03:15.9400 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:03:15.9400 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:03:15.9400 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:03:15.9400 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:03:15.9549 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:03:15.9549 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:03:16.0478 INFO Linked Log to repository
+2023-08-18 14:03:16.0478 INFO Linked Log to repository
+2023-08-18 14:06:46.6886 INFO Se ha creado un nuevo ordenador 2
+2023-08-18 14:06:46.7862 INFO Se esta editando el ordenador 0
+2023-08-18 14:06:46.7862 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:06:58.7847 DEBUG For Testing
+2023-08-18 14:06:58.7988 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:06:58.7988 DEBUG For Testing
+2023-08-18 14:06:58.7988 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:06:58.7988 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se esta eliminando el componente 1
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:06:58.8355 DEBUG For Testing
+2023-08-18 14:06:58.8355 INFO Se esta editando el componente 1
+2023-08-18 14:06:58.8355 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:06:58.8623 DEBUG For Testing
+2023-08-18 14:06:58.8623 ERROR No se ha podido editar el componente 19
+2023-08-18 14:06:58.8623 DEBUG For Testing
+2023-08-18 14:06:58.8623 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:06:58.8623 DEBUG For Testing
+2023-08-18 14:06:58.8623 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:06:58.8623 INFO Se ha creado un nuevo ordenador 2
+2023-08-18 14:06:58.8793 INFO Se esta editando el ordenador 0
+2023-08-18 14:06:58.8793 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:06:58.8793 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:06:58.8793 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:06:58.8793 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:06:58.8793 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:06:58.8793 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:06:58.8793 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:06:58.8793 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:06:58.8793 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:06:58.8793 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:06:58.9592 INFO Linked Log to repository
+2023-08-18 14:06:58.9592 INFO Linked Log to repository
+2023-08-18 14:07:30.2978 DEBUG For Testing
+2023-08-18 14:07:30.3150 INFO Se va a mostrar los detalles del componente 2
+2023-08-18 14:07:30.3317 DEBUG For Testing
+2023-08-18 14:07:30.3317 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:07:30.3317 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se ha creado un nuevo componente 19
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se esta eliminando el componente 1
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 WARN No se ha podido eliminar el componente 19
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-18 14:07:30.3550 DEBUG For Testing
+2023-08-18 14:07:30.3550 INFO Se esta editando el componente 1
+2023-08-18 14:07:30.3550 INFO Se va a mostrar los detalles del componente 1
+2023-08-18 14:07:30.3788 DEBUG For Testing
+2023-08-18 14:07:30.3788 ERROR No se ha podido editar el componente 19
+2023-08-18 14:07:30.3788 DEBUG For Testing
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:07:30.3788 DEBUG For Testing
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la lista de componentes
+2023-08-18 14:07:30.3788 INFO Se ha creado un nuevo ordenador 2
+2023-08-18 14:07:30.3788 INFO Se esta editando el ordenador 0
+2023-08-18 14:07:30.3788 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la vista para crear un nuevo ordenador
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la vista para eliminar el ordenador 1
+2023-08-18 14:07:30.3788 INFO Se esta eliminando el ordenador 1
+2023-08-18 14:07:30.3788 WARN No se ha podido eliminar el ordenador 19
+2023-08-18 14:07:30.3788 INFO Se va a mostrar los detalles del ordenador 0
+2023-08-18 14:07:30.3788 INFO Se va a mostrar los detalles del ordenador 1
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:07:30.3788 INFO Se va a mostrar la lista de ordenadores
+2023-08-18 14:07:30.4746 INFO Linked Log to repository
+2023-08-18 14:07:30.4746 INFO Linked Log to repository
+2023-08-18 14:07:37.9079 INFO Se ha creado un nuevo ordenador 2

@@ -1,0 +1,84 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #212529;
+    color: whitesmoke;
+}
+
+nav {
+    border-bottom: 1px solid white;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.navbar-nav {
+    justify-content: flex-start;
+}
+
+.nav-item:hover {
+    background-color: #6c6c6c !important;
+}
+
+.navitem > li {
+    border-inline: 1px solid white;
+    border-collapse: collapse;
+    color: whitesmoke;
+}
+
+tr:hover {
+    background-color: #6c6c6c !important;
+}
+
+    tr:hover > td {
+        background-color: rgba(0,0,0,0);
+        font-weight: bold;
+    }
+
+.createbutton {
+    padding-block: .5rem;
+    padding-inline: 1rem;
+    display: flex;
+    width: 10rem;
+    margin-inline: 0.1rem;
+    -o-justify-content: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+}
+
+    .svg-icon path, .svg-icon polygon, .svg-icon rect {
+        /*
+    fill: #4691f6;
+    */
+        fill: #fff
+    }
+
+    .svg-icon circle {
+        stroke: #4691f6;
+        stroke-width: 1;
+    }

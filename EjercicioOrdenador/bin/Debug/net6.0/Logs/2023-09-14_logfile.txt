@@ -1,0 +1,30 @@
+2023-09-14 21:24:18.0545 INFO Linked Log to repository
+2023-09-14 21:24:18.0743 INFO Linked Log to repository
+2023-09-14 21:24:18.0743 DEBUG For Testing
+2023-09-14 21:24:26.0465 INFO Linked Log to repository
+2023-09-14 21:24:26.0465 INFO Linked Log to repository
+2023-09-14 21:24:26.0465 DEBUG For Testing
+2023-09-14 21:24:26.0627 INFO Se va a mostrar la lista de componentes
+2023-09-14 21:29:15.5993 INFO Linked Log to repository
+2023-09-14 21:29:15.6227 INFO Linked Log to repository
+2023-09-14 21:29:15.6227 DEBUG For Testing
+2023-09-14 21:29:19.4047 INFO Linked Log to repository
+2023-09-14 21:29:19.4047 INFO Linked Log to repository
+2023-09-14 21:29:19.4047 DEBUG For Testing
+2023-09-14 21:29:19.4047 INFO Se va a mostrar la lista de componentes
+2023-09-14 21:29:21.6571 INFO Linked Log to repository
+2023-09-14 21:29:21.6571 INFO Linked Log to repository
+2023-09-14 21:29:21.6571 DEBUG For Testing
+2023-09-14 21:29:21.6571 INFO Se va a mostrar los detalles del componente 20
+2023-09-14 21:29:23.4192 INFO Linked Log to repository
+2023-09-14 21:29:23.4192 INFO Linked Log to repository
+2023-09-14 21:29:23.4192 DEBUG For Testing
+2023-09-14 21:29:23.4192 INFO Se va a mostrar la lista de componentes
+2023-09-14 21:29:24.8814 INFO Linked Log to repository
+2023-09-14 21:29:24.8814 INFO Linked Log to repository
+2023-09-14 21:29:24.8814 DEBUG For Testing
+2023-09-14 21:29:24.9264 INFO Se va a mostrar la vista para editar el componente 1
+2023-09-14 21:29:29.1740 INFO Linked Log to repository
+2023-09-14 21:29:29.1740 INFO Linked Log to repository
+2023-09-14 21:29:29.1740 DEBUG For Testing
+2023-09-14 21:29:29.2701 INFO Se esta editando el componente 1

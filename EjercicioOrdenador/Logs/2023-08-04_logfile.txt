@@ -1,0 +1,43 @@
+2023-08-04 11:19:34.1688 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:19:41.7247 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:19:51.3096 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:20:03.6885 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:20:10.4560 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:20:26.2282 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:20:30.6054 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:20:32.1632 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:23:47.8226 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:23:51.1728 INFO Se va a mostrar la vista para editar el componente1
+2023-08-04 11:23:55.0543 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:23:56.7633 INFO Se va a mostrar la vista para editar el componente1
+2023-08-04 11:23:59.9446 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:24:01.5050 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-04 11:24:17.7000 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:24:21.4337 INFO Se va a mostrar los detalles de el componente19
+2023-08-04 11:24:23.6963 INFO Se va a mostrar la lista de componentes
+2023-08-04 11:24:25.8404 INFO Se va a mostrar la vista para eliminar el componente19
+2023-08-04 11:24:27.3924 INFO Se va a eliminar el componente19
+2023-08-04 11:24:27.4171 INFO Se va a mostrar la lista de componentes
+2023-08-04 14:32:55.4396 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:17:18.6420 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:18:04.5792 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:18:30.7833 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:18:30.8097 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:18:55.7044 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:18:55.7398 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:19:01.9245 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:19:48.2675 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:19:48.2907 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:19:48.2907 INFO Se va a mostrar la lista de componentes
+2023-08-04 18:19:58.2364 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 18:19:58.2697 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 18:19:58.2697 INFO Se va a mostrar la lista de componentes
+2023-08-04 19:31:26.2669 INFO Se va a mostrar los detalles de el componente 2
+2023-08-04 19:31:26.3016 INFO Se va a mostrar los detalles de el componente 1
+2023-08-04 19:31:26.3016 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:12:58.5374 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:16:38.9885 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:16:40.4941 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:17:08.7345 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:19:27.2547 INFO Se va a mostrar la lista de componentes
+2023-08-04 20:29:05.3642 INFO Se va a mostrar la lista de componentes

@@ -1,0 +1,37 @@
+2023-08-27 15:54:14.1101 INFO Linked Log to repository
+2023-08-27 15:54:14.1418 INFO Linked Log to repository
+2023-08-27 15:54:14.1418 DEBUG For Testing
+2023-08-27 15:54:26.0701 INFO Linked Log to repository
+2023-08-27 15:54:26.0701 INFO Linked Log to repository
+2023-08-27 15:54:26.0701 DEBUG For Testing
+2023-08-27 15:54:26.0701 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:55:23.9759 INFO Linked Log to repository
+2023-08-27 15:55:23.9915 INFO Linked Log to repository
+2023-08-27 15:55:24.0014 DEBUG For Testing
+2023-08-27 15:55:26.2939 INFO Linked Log to repository
+2023-08-27 15:55:26.2939 INFO Linked Log to repository
+2023-08-27 15:55:26.2939 DEBUG For Testing
+2023-08-27 15:55:26.2939 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:55:33.0697 INFO Linked Log to repository
+2023-08-27 15:55:33.0697 INFO Linked Log to repository
+2023-08-27 15:55:33.0697 DEBUG For Testing
+2023-08-27 15:55:33.0697 INFO Se va a mostrar los detalles del componente 1
+2023-08-27 15:56:22.2979 INFO Linked Log to repository
+2023-08-27 15:56:22.2979 INFO Linked Log to repository
+2023-08-27 15:56:22.2979 DEBUG For Testing
+2023-08-27 15:56:22.2979 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:56:24.6882 INFO Linked Log to repository
+2023-08-27 15:56:24.6882 INFO Linked Log to repository
+2023-08-27 15:56:24.6882 DEBUG For Testing
+2023-08-27 15:56:24.6882 INFO Se va a mostrar los detalles del componente 1
+2023-08-27 15:59:00.2633 INFO Linked Log to repository
+2023-08-27 15:59:00.2825 INFO Linked Log to repository
+2023-08-27 15:59:00.2825 DEBUG For Testing
+2023-08-27 15:59:53.4633 INFO Linked Log to repository
+2023-08-27 15:59:53.4633 INFO Linked Log to repository
+2023-08-27 15:59:53.4633 DEBUG For Testing
+2023-08-27 15:59:53.4633 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:59:56.2841 INFO Linked Log to repository
+2023-08-27 15:59:56.2841 INFO Linked Log to repository
+2023-08-27 15:59:56.2841 DEBUG For Testing
+2023-08-27 15:59:56.2841 INFO Se va a mostrar los detalles del componente 1

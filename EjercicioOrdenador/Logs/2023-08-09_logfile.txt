@@ -1,0 +1,237 @@
+2023-08-09 10:42:30.0249 INFO Linked Log to repository
+2023-08-09 10:42:30.1690 INFO Se va a mostrar la lista de ordenadores
+2023-08-09 10:42:35.7407 INFO Linked Log to repository
+2023-08-09 10:42:35.7407 INFO Se va a mostrar la lista de componentes
+2023-08-09 10:42:37.9648 INFO Linked Log to repository
+2023-08-09 10:42:37.9723 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 10:43:13.5436 INFO Linked Log to repository
+2023-08-09 10:43:13.5549 INFO Se esta editando el componente 1
+2023-08-09 10:43:13.5749 INFO Linked Log to repository
+2023-08-09 10:43:13.5749 INFO Se va a mostrar la lista de componentes
+2023-08-09 10:43:17.7770 INFO Linked Log to repository
+2023-08-09 10:43:17.7770 INFO Se va a mostrar la lista de componentes
+2023-08-09 10:43:20.2025 INFO Linked Log to repository
+2023-08-09 10:43:20.2025 INFO Se va a mostrar la lista de ordenadores
+2023-08-09 10:43:21.8135 INFO Linked Log to repository
+2023-08-09 10:43:21.8140 INFO Se va a mostrar la vista para editar el ordenador 1
+2023-08-09 10:43:23.3299 INFO Linked Log to repository
+2023-08-09 10:43:23.3299 INFO Se va a mostrar la lista de ordenadores
+2023-08-09 10:43:24.8699 INFO Linked Log to repository
+2023-08-09 10:43:24.8699 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:23:26.4868 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:23:26.5321 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:23:26.5345 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:25:24.7980 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:25:24.8305 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:25:24.8305 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:25:24.8558 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:25:54.0797 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:25:54.1079 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:25:54.1079 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:25:54.1079 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:30:16.5335 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:30:16.5559 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:30:16.5559 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:30:16.5686 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:30:16.5686 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:30:45.0635 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:30:45.0866 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:30:45.0866 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:30:45.0977 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:30:45.0977 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:32:06.4396 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:32:06.4672 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:32:06.4672 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:32:06.4786 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:32:06.4786 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:34:45.3607 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:34:45.3965 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:34:45.3965 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:34:45.3965 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:34:45.4074 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:35:11.2674 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:35:11.3084 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:40:08.7575 INFO Linked Log to repository
+2023-08-09 14:40:08.9047 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:40:12.2171 INFO Linked Log to repository
+2023-08-09 14:40:12.2244 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:41:33.8606 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:41:33.8895 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:41:33.8895 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:41:33.9102 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:41:33.9102 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:42:06.7044 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:42:06.7462 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:42:06.7462 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:42:06.7614 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:42:06.7614 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:43:52.0363 INFO Linked Log to repository
+2023-08-09 14:43:52.1910 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:43:56.2062 INFO Linked Log to repository
+2023-08-09 14:43:56.2062 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:44:13.0532 INFO Linked Log to repository
+2023-08-09 14:44:13.1032 INFO Componente 0 añadido
+2023-08-09 14:44:13.2474 INFO Se ha creado un nuevo componente 19
+2023-08-09 14:44:13.2617 INFO Linked Log to repository
+2023-08-09 14:44:13.2617 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:46:07.9079 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:46:07.9443 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:46:07.9443 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:46:07.9571 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:46:07.9571 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:46:31.8762 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:46:31.9012 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:46:31.9012 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:46:31.9119 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:46:31.9119 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:50:14.0482 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:50:14.0835 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:50:14.0835 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:50:14.0987 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:50:14.0987 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:51:36.2825 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:51:36.3192 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:51:36.3192 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:51:36.3319 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:51:36.3319 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:52:20.1259 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:52:20.1582 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:52:20.1582 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:52:20.1582 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:52:20.1582 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:55:23.5170 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:55:23.5520 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:55:23.5520 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:55:23.5520 INFO Se ha creado un nuevo componente 18
+2023-08-09 14:55:23.5662 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:55:23.5662 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:57:01.8171 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:57:01.8756 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:57:01.8763 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:59:20.7204 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 14:59:20.7505 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 14:59:20.7512 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 14:59:20.7512 INFO Se ha creado un nuevo componente 19
+2023-08-09 14:59:20.7512 INFO Se va a mostrar la lista de componentes
+2023-08-09 14:59:20.7512 INFO Se va a mostrar la lista de componentes
+2023-08-09 15:00:00.5478 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 15:00:00.5719 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 15:00:00.5719 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 15:00:00.5719 INFO Se ha creado un nuevo componente 19
+2023-08-09 15:00:00.5832 INFO Se va a mostrar la lista de componentes
+2023-08-09 15:00:00.5832 INFO Se va a mostrar la lista de componentes
+2023-08-09 15:00:20.5168 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 15:00:20.5814 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 15:00:20.5814 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 15:00:29.0331 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 15:00:29.0772 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 15:00:29.0772 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 15:01:28.0492 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 15:01:28.0935 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 15:01:28.0935 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 15:01:59.0201 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:48:27.3607 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:48:27.4236 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:48:27.4236 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:48:27.4236 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:48:27.4571 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:48:27.4571 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:48:27.4571 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:50:20.1886 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:50:20.2402 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:50:20.2402 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:50:20.2402 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:50:20.2520 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:50:20.2520 INFO Se esta editando el componente 1
+2023-08-09 22:50:20.2520 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:50:20.2520 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:53:13.5485 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:53:13.5782 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:53:13.5782 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:53:13.5797 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:53:13.5797 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:53:13.5797 INFO Se esta editando el componente 1
+2023-08-09 22:53:13.5797 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:53:13.5797 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:53:45.9855 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:53:46.0139 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:53:46.0139 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:53:46.0139 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:53:46.0252 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:53:46.0252 INFO Se esta editando el componente 1
+2023-08-09 22:53:46.0252 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:53:46.0252 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:53:46.0252 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:55:11.6730 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:55:11.7066 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:55:11.7066 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:55:11.7066 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:55:11.7066 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 22:55:11.7066 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:55:11.7066 INFO Se esta editando el componente 1
+2023-08-09 22:55:11.7066 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:55:11.7066 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:56:42.9230 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:56:42.9542 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:56:42.9542 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:56:42.9542 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:56:42.9542 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 22:56:42.9542 INFO Se esta eliminando el componente 18
+2023-08-09 22:56:42.9542 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:56:42.9542 INFO Se esta editando el componente 1
+2023-08-09 22:56:42.9542 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:56:42.9928 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:59:05.7666 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:59:05.7992 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:59:05.7992 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:59:05.7992 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:59:05.7992 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 22:59:05.7992 INFO Se esta eliminando el componente 18
+2023-08-09 22:59:05.7992 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:59:05.7992 INFO Se esta editando el componente 1
+2023-08-09 22:59:05.7992 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:59:05.8349 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:59:58.2044 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 22:59:58.2384 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:59:58.2384 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 22:59:58.2384 INFO Se ha creado un nuevo componente 19
+2023-08-09 22:59:58.2384 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 22:59:58.2384 INFO Se esta eliminando el componente 18
+2023-08-09 22:59:58.2533 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 22:59:58.2533 INFO Se esta editando el componente 1
+2023-08-09 22:59:58.2533 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 22:59:58.2533 INFO Se va a mostrar la lista de componentes
+2023-08-09 22:59:58.2778 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:00:58.8136 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 23:00:58.8423 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:00:58.8423 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 23:00:58.8423 INFO Se ha creado un nuevo componente 19
+2023-08-09 23:00:58.8423 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 23:00:58.8423 INFO No se ha podido eliminar el componente 18
+2023-08-09 23:00:58.8549 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 23:00:58.8549 INFO Se esta editando el componente 1
+2023-08-09 23:00:58.8549 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:00:58.8549 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:00:58.8797 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:01:53.4243 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 23:01:53.4579 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:01:53.4579 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 23:01:53.4579 INFO Se ha creado un nuevo componente 19
+2023-08-09 23:01:53.4579 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 23:01:53.4579 INFO No se ha podido eliminar el componente 18
+2023-08-09 23:01:53.4715 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 23:01:53.4715 INFO Se esta editando el componente 1
+2023-08-09 23:01:53.4715 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:01:53.4715 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:01:53.4969 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:02:24.5951 INFO Se va a mostrar los detalles del componente 2
+2023-08-09 23:02:24.6107 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:02:24.6107 INFO Se va a mostrar la vista para crear un nuevo componente
+2023-08-09 23:02:24.6261 INFO Se ha creado un nuevo componente 19
+2023-08-09 23:02:24.6261 INFO Se va a mostrar la vista para eliminar el componente 1
+2023-08-09 23:02:24.6261 INFO No se ha podido eliminar el componente 18
+2023-08-09 23:02:24.6261 INFO Se va a mostrar la vista para editar el componente 1
+2023-08-09 23:02:24.6261 INFO Se esta editando el componente 1
+2023-08-09 23:02:24.6261 INFO Se va a mostrar los detalles del componente 1
+2023-08-09 23:02:24.6261 INFO Se va a mostrar la lista de componentes
+2023-08-09 23:02:24.6609 INFO Se va a mostrar la lista de componentes

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<EjercicioOrdenador.Models.Componente>
+
+@{
+    ViewData["Title"] = "Ordenadores Obdulio";
+}
+
+<h1>Ordenadores Obdulio</h1>
+
+<div class="d-flex justify-content-start">
+    <a class="btn btn-secondary createbutton" asp-controller="Componente" asp-action="Index">Componentes</a>
+    <a class="btn btn-secondary createbutton" asp-controller="Ordenador" asp-action="Index">Ordenadores</a>
+</div>
+
+@await Component.InvokeAsync("ComponentsList", new {  noOfComponents = 10 } )
+
