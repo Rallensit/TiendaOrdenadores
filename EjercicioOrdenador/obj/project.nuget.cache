@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ms/ubu0jB0tdIbRyrAz2dmG41PrdyleK7A68RflCNKTZg/Njd5qp4X8UU8zKiBcbJ9PRm0hiF+K9/fyPQBAVOA==",
+  "dgSpecHash": "DgLJJ7KjwlvuBkz+9xG9j7O/RKOgS+dAYMa37toQ0ynUWvCiRTEjGELlAmsh0Wiiwn/yNuP93y1wNUXJ0JdmOw==",
   "success": true,
   "projectFilePath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\ralle\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\azure.storage.blobs\\12.18.0\\azure.storage.blobs.12.18.0.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\azure.storage.common\\12.17.0\\azure.storage.common.12.17.0.nupkg.sha512",
+    "C:\\Users\\ralle\\.nuget\\packages\\dotenv.net\\3.1.2\\dotenv.net.3.1.2.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

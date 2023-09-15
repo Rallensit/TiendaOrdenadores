@@ -86,6 +86,15 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "dotenv.net/3.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/dotenv.net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/dotenv.net.dll": {}
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -4700,7 +4709,8 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
           "NLog.Extensions.Logging": "5.3.2",
           "Newtonsoft.Json": "13.0.3",
-          "Polly": "7.2.4"
+          "Polly": "7.2.4",
+          "dotenv.net": "3.1.2"
         },
         "compile": {
           "bin/placeholder/EjercicioOrdenador.dll": {}
@@ -4874,6 +4884,20 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "dotenv.net/3.1.2": {
+      "sha512": "lFm4hGX9JkNtAF36Uz4C3WT7MC6Ys802k0cPvlln8ydmH67GQjnToH+w645tQm1czAjW/V6tPE088lD77sYFGA==",
+      "type": "package",
+      "path": "dotenv.net/3.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotenv.net.3.1.2.nupkg.sha512",
+        "dotenv.net.nuspec",
+        "lib/netstandard1.6/dotenv.net.dll",
+        "lib/netstandard2.0/dotenv.net.dll",
+        "lib/netstandard2.1/dotenv.net.dll"
       ]
     },
     "Humanizer/2.14.1": {

@@ -17,7 +17,8 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
           "NLog.Extensions.Logging": "5.3.2",
           "Newtonsoft.Json": "13.0.3",
-          "Polly": "7.2.4"
+          "Polly": "7.2.4",
+          "dotenv.net": "3.1.2"
         },
         "runtime": {
           "EjercicioOrdenador.dll": {}
@@ -78,6 +79,14 @@
           "lib/net6.0/Azure.Storage.Common.dll": {
             "assemblyVersion": "12.17.0.0",
             "fileVersion": "12.1700.23.46203"
+          }
+        }
+      },
+      "dotenv.net/3.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/dotenv.net.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
           }
         }
       },
@@ -2991,6 +3000,13 @@
       "sha512": "sha512-/h8SpUkxMuQy/MbNFeJQGmhYt3JnYfEiGeDojtNgLNzzhyDnRYgjF3ZKYgjORYQpn0Spr+4+v2MZy+0GNJBLrg==",
       "path": "azure.storage.common/12.17.0",
       "hashPath": "azure.storage.common.12.17.0.nupkg.sha512"
+    },
+    "dotenv.net/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lFm4hGX9JkNtAF36Uz4C3WT7MC6Ys802k0cPvlln8ydmH67GQjnToH+w645tQm1czAjW/V6tPE088lD77sYFGA==",
+      "path": "dotenv.net/3.1.2",
+      "hashPath": "dotenv.net.3.1.2.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

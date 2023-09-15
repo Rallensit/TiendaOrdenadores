@@ -17,11 +17,12 @@ namespace EjercicioOrdenador
 
         public static void Main(string[] args)
         {
-            ProcessAsync().GetAwaiter().GetResult();
 
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadores02")));
+            ProcessAsync(builder.Configuration.GetConnectionString("AzureConnection")).GetAwaiter().GetResult();
+
+            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadores")));
 
             LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
@@ -67,15 +68,14 @@ namespace EjercicioOrdenador
                 );
         }
 
-        static async Task ProcessAsync()
+        static async Task ProcessAsync(string connection)
         {
             string containerName = "tiendaordenadores"; // Reemplaza con el nombre de tu contenedor
             string localFolderPath = "Logs";
             // Copy the connection string from the portal in the variable below.
-            string storageConnectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION"); ;
-
+            
             // Create a client that can authenticate with a connection string
-            BlobServiceClient blobServiceClient = new BlobServiceClient(storageConnectionString);
+            BlobServiceClient blobServiceClient = new BlobServiceClient(connection);
             BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(containerName);
 
             Console.WriteLine("Subiendo archivos a Azure Blob Storage...");
