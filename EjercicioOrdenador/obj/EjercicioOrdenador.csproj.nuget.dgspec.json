@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {}
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {}
   },
   "projects": {
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
+        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
         "projectName": "EjercicioOrdenador",
-        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
+        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\obj\\",
+        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,10 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.18.0, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[2.5.0, )"
             },
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",

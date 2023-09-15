@@ -307,3 +307,5 @@ C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\obj\Debug\net6.0\Ejercici
 C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\obj\Debug\net6.0\EjercicioOrdenador.genruntimeconfig.cache
 C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\obj\Debug\net6.0\ref\EjercicioOrdenador.dll
 C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\bin\Debug\net6.0\dotenv.net.dll
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\bin\Debug\net6.0\DotNetEnv.dll
+C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\bin\Debug\net6.0\Sprache.dll

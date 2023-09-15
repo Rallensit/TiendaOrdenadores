@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EjercicioOrdenador
 build_property.RootNamespace = EjercicioOrdenador
-build_property.ProjectDir = c:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\
+build_property.ProjectDir = C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador
+build_property.MSBuildProjectDirectory = C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Components/ComponentsList/Default.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Components/ComponentsList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxDb21wb25lbnRzXENvbXBvbmVudHNMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Create.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Delete.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Details.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Edit.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Index.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/LandingPage.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Componente/LandingPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZVxMYW5kaW5nUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Create.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Delete.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Details.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Edit.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Index.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Ordenador/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/Error.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/_ViewImports.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/_ViewStart.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/_Layout.cshtml]
+[C:/CarlosAlvarez/EjercicioOrdenador/EjercicioOrdenador/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nadhisy57a

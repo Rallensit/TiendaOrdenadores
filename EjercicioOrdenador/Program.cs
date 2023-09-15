@@ -7,6 +7,7 @@ using Polly.Extensions.Http;
 using Polly;
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
+using DotNetEnv;
 using EjercicioOrdenador.CrossCutting.Logging;
 
 namespace EjercicioOrdenador
@@ -17,10 +18,9 @@ namespace EjercicioOrdenador
 
         public static void Main(string[] args)
         {
-
+            ProcessAsync().GetAwaiter().GetResult();
             var builder = WebApplication.CreateBuilder(args);
 
-            ProcessAsync(builder.Configuration.GetConnectionString("AzureConnection")).GetAwaiter().GetResult();
 
             builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadores")));
 
@@ -68,14 +68,16 @@ namespace EjercicioOrdenador
                 );
         }
 
-        static async Task ProcessAsync(string connection)
+        static async Task ProcessAsync()
         {
             string containerName = "tiendaordenadores"; // Reemplaza con el nombre de tu contenedor
             string localFolderPath = "Logs";
             // Copy the connection string from the portal in the variable below.
-            
+            Env.Load();
+            string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
+
             // Create a client that can authenticate with a connection string
-            BlobServiceClient blobServiceClient = new BlobServiceClient(connection);
+            BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);
             BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(containerName);
 
             Console.WriteLine("Subiendo archivos a Azure Blob Storage...");

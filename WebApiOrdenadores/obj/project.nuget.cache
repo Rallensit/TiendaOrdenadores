@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpWq+Bi/x/4WDP+AnOjDhK3J97seh1b8ujnFPVcpPe4NWxGsdpu4EPl/BTZDjdKOhCIEVGBqdc/BYgAO95dSAw==",
+  "dgSpecHash": "5GLRjn9MMpDb/ICX9AkUD9UlHtj/0k5UmXXSwVTGPlS3U701sWCksTeOXndBOdE9DuUOAorfNEl2u/QB6B7G7w==",
   "success": true,
-  "projectFilePath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
+  "projectFilePath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ralle\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
