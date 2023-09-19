@@ -4,7 +4,7 @@ namespace EjercicioOrdenador.ViewComoponents;
 
 public class ComponentsList : ViewComponent
 {
-    public Task<IViewComponentResult> InvokeAsync()
+    public async Task<IViewComponentResult> InvokeAsync()
     {
         return View();
     }
