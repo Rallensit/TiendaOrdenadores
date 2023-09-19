@@ -10,7 +10,7 @@ namespace EjercicioOrdenador.Services
 
         public RepositorioOrdenadoresAPI(IConfiguration configuration)
         {
-            con = configuration.GetConnectionString("TiendaOrdenadores02");
+            con = configuration.GetConnectionString("TiendaOrdenadores");
         }
 
         public List<Ordenador>? ListaOrdenadores()

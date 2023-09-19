@@ -12,7 +12,7 @@ public class RepositorioComponentesAPI : IRepositorioComponente
 
     public RepositorioComponentesAPI(IConfiguration configuration)
     {
-        con = configuration.GetConnectionString("TiendaOrdenadores02");
+        con = configuration.GetConnectionString("TiendaOrdenadores");
     }
 
     public List<Componente>? ListaComponentes()

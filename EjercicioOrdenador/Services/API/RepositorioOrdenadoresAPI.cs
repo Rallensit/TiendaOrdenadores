@@ -7,6 +7,7 @@ namespace EjercicioOrdenador.Services.API
     public class RepositorioOrdenadoresAPI : IRepositorioOrdenador
     {
         private readonly HttpClient _httpClient;
+        private const string UrlBase = "https://webapiordenadorescarlosalvarez.azurewebsites.net/api/Componente";
 
         public RepositorioOrdenadoresAPI(IHttpClientFactory httpClientFactory)
         {
@@ -15,7 +16,7 @@ namespace EjercicioOrdenador.Services.API
 
         public List<Ordenador> ListaOrdenadores()
         {
-            var url = "http://localhost:5245/api/Ordenador";
+            var url = UrlBase;
             var callResponse = _httpClient.GetAsync(url).Result;
             var response = callResponse.Content.ReadAsStringAsync().Result;
             var lista = JsonConvert.DeserializeObject<List<Ordenador>>(response);
@@ -26,7 +27,7 @@ namespace EjercicioOrdenador.Services.API
 
         public Ordenador? GetOrdenador(int id)
         {
-            var url = $"http://localhost:5245/api/Ordenador/{id}";
+            var url = UrlBase + $"/{id}";
             var callResponse = _httpClient.GetAsync(url).Result;
             var response = callResponse.Content.ReadAsStringAsync().Result;
 
@@ -35,7 +36,7 @@ namespace EjercicioOrdenador.Services.API
 
         public void AddOrdenador(Ordenador item)
         {
-            var url = "http://localhost:5245/api/Ordenador";
+            var url = UrlBase;
             var json = JsonConvert.SerializeObject(item);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
             _httpClient.PostAsync(url, content);
@@ -43,7 +44,7 @@ namespace EjercicioOrdenador.Services.API
 
         public void Update(int id, Ordenador element)
         {
-            var url = "http://localhost:5245/api/Ordenador";
+            var url = UrlBase;
             var json = JsonConvert.SerializeObject(element);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
             Console.WriteLine(content);
@@ -52,7 +53,7 @@ namespace EjercicioOrdenador.Services.API
 
         public void DeleteOrdenador(int id)
         {
-            var url = $"http://localhost:5245/api/Ordenador/{id}";
+            var url = UrlBase + $"/{id}";
             _httpClient.DeleteAsync(url);
         }
     }

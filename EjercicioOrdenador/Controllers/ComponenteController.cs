@@ -10,14 +10,16 @@ namespace EjercicioOrdenador.Controllers
     {
         private readonly IRepositorioComponente _repositorio;
         private readonly IRepositorioOrdenador _repositorioOrdenador;
-        private readonly ILoggerManager _loggerManager;
+        //private readonly ILoggerManager _loggerManager;
 
-        public ComponenteController(IRepositorioComponente repositorio, ILoggerManager loggerManager, IRepositorioOrdenador repositorioOrdenador)
+        public ComponenteController(IRepositorioComponente repositorio, 
+          //  ILoggerManager loggerManager, 
+            IRepositorioOrdenador repositorioOrdenador)
         {
             _repositorio = repositorio;
             _repositorioOrdenador = repositorioOrdenador;
-            _loggerManager = loggerManager;
-            _loggerManager.LogDebug("For Testing");
+            //_loggerManager = loggerManager;
+            //_loggerManager.LogDebug("For Testing");
         }
 
         public ActionResult LandingPage()
@@ -28,14 +30,14 @@ namespace EjercicioOrdenador.Controllers
         // GET: Componente
         public ActionResult Index()
         {
-            _loggerManager.LogInfo("Se va a mostrar la lista de componentes");
+            //_loggerManager.LogInfo("Se va a mostrar la lista de componentes");
             return View("Index", _repositorio.ListaComponentes());
         }
 
         // GET: Componente/Details/5
         public ActionResult Details(int id)
         {
-            _loggerManager.LogInfo("Se va a mostrar los detalles del componente " + id);
+           // _loggerManager.LogInfo("Se va a mostrar los detalles del componente " + id);
             return View("Details", _repositorio.GetComponente(id));
         }
 
@@ -50,7 +52,7 @@ namespace EjercicioOrdenador.Controllers
 
             ViewBag.OrdenadoresId = _repositorioOrdenador.ListaOrdenadores();
 
-            _loggerManager.LogInfo("Se va a mostrar la vista para crear un nuevo componente");
+            //_loggerManager.LogInfo("Se va a mostrar la vista para crear un nuevo componente");
             return View("Create", new Componente());
         }
 
@@ -63,7 +65,7 @@ namespace EjercicioOrdenador.Controllers
         {
             componente.OrdenadorId = OrdenadorID;
             _repositorio.AddComponente(componente);
-            if (componente != null) _loggerManager.LogInfo("Se ha creado un nuevo componente " + componente.Id);
+           // if (componente != null) _loggerManager.LogInfo("Se ha creado un nuevo componente " + componente.Id);
             return View("Index", _repositorio.ListaComponentes());
         }
 
@@ -80,7 +82,7 @@ namespace EjercicioOrdenador.Controllers
 
             ViewBag.OrdenadoresId = _repositorioOrdenador.ListaOrdenadores();
 
-            _loggerManager.LogInfo("Se va a mostrar la vista para editar el componente " + id);
+           // _loggerManager.LogInfo("Se va a mostrar la vista para editar el componente " + id);
             return View("Edit", _repositorio.GetComponente(id));
         }
 
@@ -99,12 +101,12 @@ namespace EjercicioOrdenador.Controllers
                     componente.OrdenadorId = OrdenadorID;
                     _repositorio.Update(id, componente);
                 }
-                _loggerManager.LogInfo("Se esta editando el componente " + id);
+            //    _loggerManager.LogInfo("Se esta editando el componente " + id);
                 return View("Index", _repositorio.ListaComponentes());
             }
             catch
             {
-                _loggerManager.LogError("No se ha podido editar el componente " + id);
+            //    _loggerManager.LogError("No se ha podido editar el componente " + id);
                 return View();
             }
 
@@ -113,7 +115,7 @@ namespace EjercicioOrdenador.Controllers
         // GET: Componente/Delete/5
         public ActionResult Delete(int id)
         {
-            _loggerManager.LogInfo("Se va a mostrar la vista para eliminar el componente " + id);
+           // _loggerManager.LogInfo("Se va a mostrar la vista para eliminar el componente " + id);
             return View("Delete", _repositorio.GetComponente(id));
         }
 
@@ -128,13 +130,13 @@ namespace EjercicioOrdenador.Controllers
                 if (componenteEncotrado != null)
                 {
                     _repositorio.DeleteComponente(id);
-                    _loggerManager.LogInfo("Se esta eliminando el componente " + id);
+                //    _loggerManager.LogInfo("Se esta eliminando el componente " + id);
                 }
                 return View("Index", _repositorio.ListaComponentes());
             }
             catch
             {
-                _loggerManager.LogWarn("No se ha podido eliminar el componente " + id);
+               // _loggerManager.LogWarn("No se ha podido eliminar el componente " + id);
                 return View();
             }
         }

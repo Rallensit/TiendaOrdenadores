@@ -4,3 +4,9 @@
 2023-09-15 10:45:52.3977 INFO Linked Log to repository
 2023-09-15 10:45:52.4186 INFO Linked Log to repository
 2023-09-15 10:45:52.4186 DEBUG For Testing
+2023-09-15 12:10:53.4129 DEBUG For Testing
+2023-09-15 12:10:55.6311 DEBUG For Testing
+2023-09-15 12:10:55.6311 INFO Se va a mostrar la lista de componentes
+2023-09-15 13:09:53.5015 DEBUG For Testing
+2023-09-15 13:09:55.7971 DEBUG For Testing
+2023-09-15 13:09:55.7971 INFO Se va a mostrar la lista de componentes

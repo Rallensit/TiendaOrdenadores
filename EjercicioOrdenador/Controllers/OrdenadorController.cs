@@ -8,32 +8,34 @@ namespace EjercicioOrdenador.Controllers
     public class OrdenadorController : Controller
     {
         private readonly IRepositorioOrdenador _repositorio;
-        private readonly ILoggerManager _loggerManager;
+        //private readonly ILoggerManager _loggerManager;
 
-        public OrdenadorController(IRepositorioOrdenador repositorio, ILoggerManager loggerManager)
+        public OrdenadorController(IRepositorioOrdenador repositorio
+           // ,ILoggerManager loggerManager
+            )
         {
             _repositorio = repositorio;
-            _loggerManager = loggerManager;
+           // _loggerManager = loggerManager;
         }
 
         // GET: Ordenador
         public ActionResult Index()
         {
-            _loggerManager.LogInfo("Se va a mostrar la lista de ordenadores");
+          //  _loggerManager.LogInfo("Se va a mostrar la lista de ordenadores");
             return View("Index", _repositorio.ListaOrdenadores());
         }
 
         // GET: Ordenador/Details/5
         public ActionResult Details(int id)
         {
-            _loggerManager.LogInfo("Se va a mostrar los detalles del ordenador " + id);
+          //  _loggerManager.LogInfo("Se va a mostrar los detalles del ordenador " + id);
             return View("Details", _repositorio.GetOrdenador(id));
         }
 
         // GET: Ordenador/Create
         public IActionResult Create()
         {
-            _loggerManager.LogInfo("Se va a mostrar la vista para crear un nuevo ordenador");
+           // _loggerManager.LogInfo("Se va a mostrar la vista para crear un nuevo ordenador");
             return View("Create", new Ordenador());
         }
 
@@ -45,14 +47,14 @@ namespace EjercicioOrdenador.Controllers
         public ActionResult Create([Bind("Id,Componentes,Description")] Ordenador ordenador)
         {
             _repositorio.AddOrdenador(ordenador);
-            _loggerManager.LogInfo("Se ha creado un nuevo ordenador " + ordenador.Id);
+          //  _loggerManager.LogInfo("Se ha creado un nuevo ordenador " + ordenador.Id);
             return View("Index", _repositorio.ListaOrdenadores());
         }
 
         // GET: Ordenador/Edit/5
         public ActionResult Edit(int id)
         {
-            _loggerManager.LogInfo("Se va a mostrar la vista para editar el ordenador " + id);
+          //  _loggerManager.LogInfo("Se va a mostrar la vista para editar el ordenador " + id);
             return View("Edit", _repositorio.GetOrdenador(id));
         }
 
@@ -70,12 +72,12 @@ namespace EjercicioOrdenador.Controllers
                 {
                     _repositorio.Update(id, ordenador);
                 }
-                _loggerManager.LogInfo("Se esta editando el ordenador " + id);
+             //   _loggerManager.LogInfo("Se esta editando el ordenador " + id);
                 return View("Index", _repositorio.ListaOrdenadores());
             }
             catch
             {
-                _loggerManager.LogError("No se ha podido editar el ordenador " + id);
+           //    _loggerManager.LogError("No se ha podido editar el ordenador " + id);
                 return View();
             }
 
@@ -84,7 +86,7 @@ namespace EjercicioOrdenador.Controllers
         // GET: Ordenador/Delete/5
         public ActionResult Delete(int id)
         {
-            _loggerManager.LogInfo("Se va a mostrar la vista para eliminar el ordenador " + id);
+          //  _loggerManager.LogInfo("Se va a mostrar la vista para eliminar el ordenador " + id);
             return View("Delete", _repositorio.GetOrdenador(id));
         }
 
@@ -99,13 +101,13 @@ namespace EjercicioOrdenador.Controllers
                 if (componenteEncotrado != null)
                 {
                     _repositorio.DeleteOrdenador(id);
-                    _loggerManager.LogInfo("Se esta eliminando el ordenador " + id);
+            //        _loggerManager.LogInfo("Se esta eliminando el ordenador " + id);
                 }
                 return View("Index", _repositorio.ListaOrdenadores());
             }
             catch
             {
-                _loggerManager.LogWarn("No se ha podido eliminar el ordenador " + id);
+            //    _loggerManager.LogWarn("No se ha podido eliminar el ordenador " + id);
                 return View();
             }
         }

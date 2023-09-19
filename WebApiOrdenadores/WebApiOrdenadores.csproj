@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/edba4cba-3e83-4524-b5d1-b4bf9ebd7214/resourceGroups/TiendaOrdenadores/providers/microsoft.insights/components/WebApiOrdenadores</ApplicationInsightsResourceId>
+    <UserSecretsId>2bbf846d-77a8-49b0-8632-2213076d7ade</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

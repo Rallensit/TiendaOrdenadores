@@ -12,8 +12,12 @@ namespace WebApiOrdenadores
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
             builder.Services.AddScoped<IRepositorioComponente, RepositorioComponentesAPI>();
             builder.Services.AddScoped<IRepositorioOrdenador, RepositorioOrdenadoresAPI>();
+            //builder.Services.AddScoped<IRepositorioComponente, FakeRepositorioComponentesAPI>();
+            //builder.Services.AddScoped<IRepositorioOrdenador, FakeRepositorioOrdenadoresAPI>();
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 

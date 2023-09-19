@@ -1,14 +1,13 @@
+using Azure.Storage.Blobs;
+using DotNetEnv;
+using EjercicioOrdenador.CrossCutting.Logging;
 using EjercicioOrdenador.Data;
 using EjercicioOrdenador.Services;
 using EjercicioOrdenador.Services.API;
 using Microsoft.EntityFrameworkCore;
 using NLog;
-using Polly.Extensions.Http;
 using Polly;
-using Azure.Storage.Blobs;
-using Azure.Storage.Blobs.Models;
-using DotNetEnv;
-using EjercicioOrdenador.CrossCutting.Logging;
+using Polly.Extensions.Http;
 
 namespace EjercicioOrdenador
 {
@@ -18,23 +17,26 @@ namespace EjercicioOrdenador
 
         public static void Main(string[] args)
         {
-            ProcessAsync().GetAwaiter().GetResult();
+            //ProcessAsync().GetAwaiter().GetResult();
             var builder = WebApplication.CreateBuilder(args);
 
 
-            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadores")));
+            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadoresAzure")));
 
-            LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
+            //LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddSingleton<ILoggerManager, LoggerManager>();
+            //builder.Services.AddSingleton<ILoggerManager, LoggerManager>();
 
-            //builder.Services.AddScoped<IRepositorioComponente, RepositorioComponentesAPI>();
-            //builder.Services.AddScoped<IRepositorioOrdenador, RepositorioOrdenadoresAPI>();
-            builder.Services.AddScoped<IRepositorioComponente, RepositorioComponentes>();
-            builder.Services.AddScoped<IRepositorioOrdenador, RepositorioOrdenadores>();
+            builder.Services.AddScoped<IRepositorioComponente, RepositorioComponentesAPI>();
+            builder.Services.AddScoped<IRepositorioOrdenador, RepositorioOrdenadoresAPI>();
+            //builder.Services.AddScoped<IRepositorioComponente, FakeRepositorioComponentes>();
+            //builder.Services.AddScoped<IRepositorioOrdenador, FakeRepositorioOrdenadores>();
+            //builder.Services.AddScoped<IRepositorioComponente, RepositorioComponentes>();
+            //builder.Services.AddScoped<IRepositorioOrdenador, RepositorioOrdenadores>();
+
 
             builder.Services.AddHttpClient("MyHttpClient").AddPolicyHandler(GetCircuitBreakerPolicy());
 
@@ -74,7 +76,8 @@ namespace EjercicioOrdenador
             string localFolderPath = "Logs";
             // Copy the connection string from the portal in the variable below.
             Env.Load();
-            string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
+            string connectionString = "DefaultEndpointsProtocol=https;AccountName=tiendapc;AccountKey=SnPP2a5U+cFJS9+Trb6lGsbPJQkrQrBut0NZWuSQB9WXYGec8HYuu5zFYtXMcrf3s1qLxblSYRiq+AStGJUNFw==;EndpointSuffix=core.windows.net";
+            //string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
 
             // Create a client that can authenticate with a connection string
             BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);

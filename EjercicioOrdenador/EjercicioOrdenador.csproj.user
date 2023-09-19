@@ -14,6 +14,7 @@
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
     <ActiveDebugProfile>EjercicioOrdenador</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\CarlosAlvarez\EjercicioOrdenador\EjercicioOrdenador\Properties\PublishProfiles\MVCTiendaOrdenadores - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
