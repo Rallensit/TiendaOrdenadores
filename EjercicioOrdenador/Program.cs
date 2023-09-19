@@ -20,8 +20,9 @@ namespace EjercicioOrdenador
             //ProcessAsync().GetAwaiter().GetResult();
             var builder = WebApplication.CreateBuilder(args);
 
+            Env.Load();
 
-            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("TiendaOrdenadoresAzure")));
+            builder.Services.AddDbContext<TiendaOrdenadorContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString(Environment.GetEnvironmentVariable("AZURE_DATABASE"))));
 
             //LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
@@ -76,8 +77,9 @@ namespace EjercicioOrdenador
             string localFolderPath = "Logs";
             // Copy the connection string from the portal in the variable below.
             Env.Load();
-            string connectionString = "DefaultEndpointsProtocol=https;AccountName=tiendapc;AccountKey=SnPP2a5U+cFJS9+Trb6lGsbPJQkrQrBut0NZWuSQB9WXYGec8HYuu5zFYtXMcrf3s1qLxblSYRiq+AStGJUNFw==;EndpointSuffix=core.windows.net";
-            //string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
+
+            //string connectionString = "DefaultEndpointsProtocol=https;AccountName=tiendapc;AccountKey=SnPP2a5U+cFJS9+Trb6lGsbPJQkrQrBut0NZWuSQB9WXYGec8HYuu5zFYtXMcrf3s1qLxblSYRiq+AStGJUNFw==;EndpointSuffix=core.windows.net";
+            string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
 
             // Create a client that can authenticate with a connection string
             BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);

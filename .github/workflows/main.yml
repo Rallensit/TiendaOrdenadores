@@ -16,9 +16,11 @@ jobs:
       - name: Set Azure Storage Account Key
         env:
           AZURE_CONNECTION: ${{ secrets.AZURE_CONNECTION }}
+          AZURE_DATABASE: ${{ secrets.AZURE_DATABASE }}
         run: |
           # You can access the secret as an environment variable in your C# code
           echo "AZURE_CONNECTION=$AZURE_CONNECTION" >> $GITHUB_ENV
+          echo "AZURE_DATABASE=$AZURE_DATABASE" >> $
 
       - name: Build and Test
         run: |
