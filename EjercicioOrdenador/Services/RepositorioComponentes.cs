@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EjercicioOrdenador.Services;
 
-public class RepositorioComponentes : IRepositorioComponente
+public class RepositorioComponentes : IRepositorioGenerico<Componente>
 {
     readonly TiendaOrdenadorContext _context;
     readonly ILoggerManager _logger;
@@ -17,7 +17,7 @@ public class RepositorioComponentes : IRepositorioComponente
         _logger.LogInfo("Linked Log to repository");
         _context = contexto;
     }
-    public void AddComponente(Componente? componente)
+    public void Anadir(Componente? componente)
     {
         if (_context.Componentes is not null)
         {
@@ -31,28 +31,28 @@ public class RepositorioComponentes : IRepositorioComponente
         }
     }
 
-    public void DeleteComponente(int id)
+    public void Borrar(int id)
     {
         if (_context.Componentes is not null)
         {
-            var componenteABorrar = GetComponente(id);
+            var componenteABorrar = Obtener(id);
             if (componenteABorrar is not null)
             {
                 _context.Componentes.Remove(componenteABorrar);
-                _logger.LogInfo($"Componente eliminado");
+                _logger.LogInfo("Componente eliminado");
                 _context.SaveChanges();
             }
         }
     }
 
-    public Componente? GetComponente(int id)
+    public Componente? Obtener(int id)
     {
         if (_context.Componentes != null)
             return _context.Componentes.Include(c => c.MiOrdenador).First(x => x.Id == id);
         return null;
     }
 
-    public List<Componente>? ListaComponentes()
+    public List<Componente>? Listar()
     {
         if (_context.Componentes != null)
         {
@@ -61,11 +61,11 @@ public class RepositorioComponentes : IRepositorioComponente
         return null;
     }
 
-    public void Update(int id, Componente componente)
+    public void Actualizar(int id, Componente componente)
     {
         if (_context.Componentes is not null)
         {
-            var componenteEditar = GetComponente(id);
+            var componenteEditar = Obtener(id);
             if (componenteEditar is not null)
             {
                 componenteEditar.Id = componente.Id;

@@ -3754,6 +3754,7 @@
       "WebApiOrdenadores/1.0.0": {
         "dependencies": {
           "DotNetEnv": "2.5.0",
+          "EjercicioOrdenador": "1.0.0",
           "Microsoft.ApplicationInsights.AspNetCore": "2.15.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.9",

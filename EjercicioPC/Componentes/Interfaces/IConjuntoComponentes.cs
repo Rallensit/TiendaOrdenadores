@@ -1,4 +1,4 @@
-﻿namespace EjercicioPC.Componentes.Interfaces;
+﻿namespace EjercicioPCConsola.Componentes.Interfaces;
 
 public interface IConjuntoComponentes
 {

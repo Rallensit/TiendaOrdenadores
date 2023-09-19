@@ -1,24 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using EjercicioPC.Componentes.Interfaces;
+﻿using EjercicioPCConsola.Componentes.Interfaces;
 
-namespace EjercicioPC.TiendaPC
+namespace EjercicioPCConsola.TiendaPC;
+
+public class Factura : IPriceable
 {
-	public class Factura : IPriceable
-	{
-		private readonly List<Pedido> factura;
-		public double Precio { get; set; }
+    public readonly List<Pedido> Fac = new();
+    public double Precio { get; set; }
 
-		public Factura()
-		{
-			factura = new List<Pedido>();
-		}
+    public void Add(Pedido pedido)
+    {
+        Fac.Add(pedido);
+        Precio += pedido.PrecioTotal;
+    }
 
-		public void Add(Pedido pedido)
-		{
-			factura.Add(pedido);
-			Precio += pedido.PrecioTotal;
-		}
-
-	}
 }

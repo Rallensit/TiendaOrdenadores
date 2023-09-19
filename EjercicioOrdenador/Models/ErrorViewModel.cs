@@ -1,9 +1,8 @@
-namespace EjercicioOrdenador.Models
-{
-	public class ErrorViewModel
-	{
-		public string? RequestId { get; set; }
+namespace EjercicioOrdenador.Models;
 
-		public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-	}
+public class ErrorViewModel
+{
+    public string? RequestId { get; set; }
+
+    public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
 }

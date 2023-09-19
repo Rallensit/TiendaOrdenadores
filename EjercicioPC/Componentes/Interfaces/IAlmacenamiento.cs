@@ -1,7 +1,6 @@
-﻿namespace EjercicioPC.Componentes.Interfaces
+﻿namespace EjercicioPCConsola.Componentes.Interfaces;
+
+public interface IAlmacenamiento
 {
-	public interface IAlmacenamiento
-    {
-        long Almacenamiento { get; set; }
-    }
+    long Almacenamiento { get; set; }
 }

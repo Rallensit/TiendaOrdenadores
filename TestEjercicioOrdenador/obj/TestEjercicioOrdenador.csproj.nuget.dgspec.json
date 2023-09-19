@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj": {}
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj": {}
   },
   "projects": {
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
+        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
         "projectName": "EjercicioOrdenador",
-        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
+        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\obj\\",
+        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
+        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
         "projectName": "EjercicioPCConsola",
-        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
+        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\obj\\",
+        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,14 +181,14 @@
         }
       }
     },
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj": {
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj",
+        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj",
         "projectName": "TestEjercicioOrdenador",
-        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj",
+        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\TestEjercicioOrdenador.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\obj\\",
+        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\TestEjercicioOrdenador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,14 +209,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
-                "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj"
+              "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
+                "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj"
               },
-              "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
-                "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj"
+              "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
+                "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj"
               },
-              "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
-                "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj"
+              "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
+                "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj"
               }
             }
           }
@@ -272,14 +272,14 @@
         }
       }
     },
-    "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
+    "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
+        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
         "projectName": "WebApiOrdenadores",
-        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
+        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\obj\\",
+        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -299,7 +299,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj": {
+                "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

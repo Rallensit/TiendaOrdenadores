@@ -1,12 +1,11 @@
-﻿using EjercicioPC.TiendaPC;
+﻿using EjercicioPCConsola.TiendaPC;
 
-namespace EjercicioPC.Validators.Pedidos
+namespace EjercicioPCConsola.Validators.Pedidos;
+
+public class PedidoValidator : IPedidoValidator
 {
-	public class PedidoValidator : IPedidoValidator
-	{
-		public bool IsValid(Pedido pedido)
-		{
-			return pedido is { CalorTotal: >= 0, PrecioTotal: >= 0, EspacioTotal: >= 0 };
-		}
-	}
+    public bool IsValid(Pedido pedido)
+    {
+        return pedido is { CalorTotal: >= 0, PrecioTotal: >= 0, EspacioTotal: >= 0 };
+    }
 }

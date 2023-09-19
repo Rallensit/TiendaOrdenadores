@@ -12,6 +12,7 @@ C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\Ejer
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\EjercicioPCConsola.exe
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\WebApiOrdenadores.deps.json
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\WebApiOrdenadores.runtimeconfig.json
+C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\WebApiOrdenadores.staticwebassets.runtime.json
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\WebApiOrdenadores.exe
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\testhost.exe
 C:\CarlosAlvarez\EjercicioOrdenador\TestEjercicioOrdenador\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll

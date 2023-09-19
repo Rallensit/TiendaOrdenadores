@@ -1,13 +1,12 @@
-﻿using EjercicioPC.TiendaPC;
+﻿using EjercicioPCConsola.TiendaPC;
 
-namespace EjercicioPC.Validators.Pc
+namespace EjercicioPCConsola.Validators.Pc;
+
+public class PcValidator : IPcValidator
 {
-	public class PcValidator : IPcValidator
-	{
-		public bool IsValid(Ordenador ordenador)
-		{
-			return ordenador.GetCalor() >= 0 && ordenador.GetPrecio() >= 0 && ordenador.GetAlmacenamiento() >= 0;
-		}
+    public bool IsValid(Ordenador ordenador)
+    {
+        return ordenador.GetCalor() >= 0 && ordenador.GetPrecio() >= 0 && ordenador.GetAlmacenamiento() >= 0;
+    }
 
-	}
 }

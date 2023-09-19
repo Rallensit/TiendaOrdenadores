@@ -1,6 +1,6 @@
-﻿using EjercicioPC.TiendaPC;
+﻿using EjercicioPCConsola.TiendaPC;
 
-namespace EjercicioPC.Validators.Pedidos;
+namespace EjercicioPCConsola.Validators.Pedidos;
 
 public interface IPedidoValidator
 {

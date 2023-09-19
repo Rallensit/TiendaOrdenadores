@@ -1,38 +1,37 @@
-﻿using EjercicioPC.Componentes.Clases;
-using EjercicioPC.Componentes.Interfaces;
+﻿using EjercicioPCConsola.Componentes.Clases;
+using EjercicioPCConsola.Componentes.Interfaces;
 
-namespace EjercicioPC.TiendaPC
+namespace EjercicioPCConsola.TiendaPC;
+
+public class Ordenador : IConjuntoComponentes
 {
-	public class Ordenador : IConjuntoComponentes
-	{
-		private readonly int calorTotal;
-		private readonly double precioTotal;
-		private readonly long almacenamientoTotal;
+    private readonly int _calorTotal;
+    private readonly double _precioTotal;
+    private readonly long _almacenamientoTotal;
 
-		public Ordenador(DiscoDuro _rom, Procesador _proc, Ram _ram)
-		{
-			var rom = _rom;
-			var proc = _proc;
-			var ram = _ram;
-			calorTotal = (ram as ICalor).Calor + (rom as ICalor).Calor + (proc as ICalor).Calor;
-			precioTotal = (ram as IPriceable).Precio + (rom as IPriceable).Precio + (proc as IPriceable).Precio;
-			almacenamientoTotal = (ram as IAlmacenamiento).Almacenamiento + (rom as IAlmacenamiento).Almacenamiento;
-		}
+    public Ordenador(DiscoDuro rom, Procesador proc, Ram ram)
+    {
+        var romPc = rom;
+        var procPc = proc;
+        var ramPc = ram;
+        _calorTotal = (ramPc as ICalor).Calor + (romPc as ICalor).Calor + (procPc as ICalor).Calor;
+        _precioTotal = (ramPc as IPriceable).Precio + (romPc as IPriceable).Precio + (procPc as IPriceable).Precio;
+        _almacenamientoTotal = (ramPc as IAlmacenamiento).Almacenamiento + (romPc as IAlmacenamiento).Almacenamiento;
+    }
 
-		public long GetAlmacenamiento()
-		{
-			return almacenamientoTotal;
-		}
+    public long GetAlmacenamiento()
+    {
+        return _almacenamientoTotal;
+    }
 
-		public int GetCalor()
-		{
-			return calorTotal;
-		}
+    public int GetCalor()
+    {
+        return _calorTotal;
+    }
 
-		public double GetPrecio()
-		{
-			return precioTotal;
-		}
+    public double GetPrecio()
+    {
+        return _precioTotal;
+    }
 
-	}
 }

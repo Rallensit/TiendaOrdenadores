@@ -1,7 +1,6 @@
-﻿namespace EjercicioPC.Componentes.Interfaces
+﻿namespace EjercicioPCConsola.Componentes.Interfaces;
+
+public interface IPriceable
 {
-	public interface IPriceable
-	{
-		double Precio { get; set; }
-	}
+    double Precio { get; set; }
 }

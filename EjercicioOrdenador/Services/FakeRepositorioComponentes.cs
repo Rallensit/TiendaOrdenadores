@@ -2,7 +2,7 @@
 
 namespace EjercicioOrdenador.Services;
 
-public class FakeRepositorioComponentes : IRepositorioComponente
+public class FakeRepositorioComponentes : IRepositorioGenerico<Componente>
 {
     private readonly List<Componente>? _componentes = new();
 
@@ -30,7 +30,7 @@ public class FakeRepositorioComponentes : IRepositorioComponente
             _componentes.Add(new Componente() { Id = 18, Serie = "1789-XCT", Description = "Disco Externo Sam", Calor = 22, Precio = 140, Cores = 0, Megas = 11264000, Tipo = EnumTipoComponente.Rom });
         }
     }
-    public void AddComponente(Componente? componente)
+    public void Anadir(Componente? componente)
     {
         if (_componentes != null)
         {
@@ -41,7 +41,7 @@ public class FakeRepositorioComponentes : IRepositorioComponente
         if (_componentes != null && componente != null) _componentes.Add(componente);
     }
 
-    public void DeleteComponente(int id)
+    public void Borrar(int id)
     {
         if (_componentes != null)
         {
@@ -53,7 +53,7 @@ public class FakeRepositorioComponentes : IRepositorioComponente
         }
     }
 
-    public void Update(int id, Componente componente)
+    public void Actualizar(int id, Componente componente)
     {
         if (_componentes != null)
         {
@@ -70,13 +70,13 @@ public class FakeRepositorioComponentes : IRepositorioComponente
         }
     }
 
-    public Componente? GetComponente(int id)
+    public Componente? Obtener(int id)
     {
         if (_componentes != null) return _componentes.First(c => c.Id == id);
         return null;
     }
 
-    public List<Componente>? ListaComponentes()
+    public List<Componente>? Listar()
     {
         return _componentes;
     }

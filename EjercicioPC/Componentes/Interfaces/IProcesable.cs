@@ -1,7 +1,6 @@
-﻿namespace EjercicioPC.Componentes.Interfaces
+﻿namespace EjercicioPCConsola.Componentes.Interfaces;
+
+public interface IProcesable
 {
-	public interface IProcesable
-    {
-        int Cores { get; set; }
-    }
+    int Cores { get; set; }
 }

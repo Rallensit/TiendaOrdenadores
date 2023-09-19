@@ -1,36 +1,31 @@
-﻿using EjercicioPC.Componentes.Interfaces;
+﻿using EjercicioPCConsola.Componentes.Interfaces;
 
-namespace EjercicioPC.TiendaPC
+namespace EjercicioPCConsola.TiendaPC;
+
+public class Almacen : IGuardadorComponentes
 {
-	public class Almacen : IGuardadorComponentes
-	{
-		private readonly Dictionary<string, int> almacen;
-		public Almacen()
-		{
-			almacen = new Dictionary<string, int>();
-		}
+    private readonly Dictionary<string, int> _almacen = new();
 
-		public void Add(string serie, int cantidad)
-		{
-			almacen.Add(serie, cantidad);
-		}
+    public void Add(string serie, int cantidad)
+    {
+        _almacen.Add(serie, cantidad);
+    }
 
-		public bool Use(string serie)
-		{
-			if (almacen.ContainsKey(serie))
-			{
-				if (Check(serie))
-				{
-					almacen[serie] -= 1;
-					return true;
-				}
-				return false;
-			}
-			return false;
-		}
-		public bool Check(string serie)
-		{
-			return almacen[serie] > 0;
-		}
-	}
+    public bool Use(string serie)
+    {
+        if (_almacen.ContainsKey(serie))
+        {
+            if (Check(serie))
+            {
+                _almacen[serie] -= 1;
+                return true;
+            }
+            return false;
+        }
+        return false;
+    }
+    public bool Check(string serie)
+    {
+        return _almacen[serie] > 0;
+    }
 }

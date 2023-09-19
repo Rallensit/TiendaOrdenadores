@@ -1,12 +1,12 @@
 ﻿using WebApiOrdenadores.Models;
 
-namespace EjercicioOrdenador.Services;
+namespace WebApiOrdenadores.Services;
 
-public class FakeRepositorioComponentesAPI : IRepositorioComponente
+public class FakeRepositorioComponentesApi : IRepositorioGenerico<Componente>
 {
     private readonly List<Componente>? _componentes = new();
 
-    public FakeRepositorioComponentesAPI()
+    public FakeRepositorioComponentesApi()
     {
         if (_componentes != null)
         {
@@ -30,7 +30,19 @@ public class FakeRepositorioComponentesAPI : IRepositorioComponente
             _componentes.Add(new Componente() { Id = 18, Serie = "1789-XCT", Description = "Disco Externo Sam", Calor = 22, Precio = 140, Cores = 0, Megas = 11264000, Tipo = EnumTipoComponente.Rom });
         }
     }
-    public void AddComponente(Componente? componente)
+
+    public List<Componente>? Listar()
+    {
+        return _componentes;
+    }
+
+    public Componente? Obtener(int id)
+    {
+        if (_componentes != null) return _componentes.First(c => c.Id == id);
+        return null;
+    }
+
+    public void Anadir(Componente? componente)
     {
         if (_componentes != null)
         {
@@ -40,20 +52,7 @@ public class FakeRepositorioComponentesAPI : IRepositorioComponente
 
         if (_componentes != null && componente != null) _componentes.Add(componente);
     }
-
-    public void DeleteComponente(int id)
-    {
-        if (_componentes != null)
-        {
-            var comp = _componentes.Find(x => x.Id == id);
-            if (comp != null)
-            {
-                _componentes.RemoveAt(id);
-            }
-        }
-    }
-
-    public void Update(int id, Componente componente)
+    public void Actualizar(int id, Componente componente)
     {
         if (_componentes != null)
         {
@@ -70,16 +69,16 @@ public class FakeRepositorioComponentesAPI : IRepositorioComponente
         }
     }
 
-    public Componente? GetComponente(int id)
+    public void Borrar(int id)
     {
-        if (_componentes != null) return _componentes.First(c => c.Id == id);
-        return null;
+        if (_componentes != null)
+        {
+            var comp = _componentes.Find(x => x.Id == id);
+            if (comp != null)
+            {
+                _componentes.RemoveAt(id);
+            }
+        }
     }
-
-    public List<Componente>? ListaComponentes()
-    {
-        return _componentes;
-    }
-
 
 }

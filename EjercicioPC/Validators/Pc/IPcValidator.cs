@@ -1,9 +1,8 @@
-﻿using EjercicioPC.TiendaPC;
+﻿using EjercicioPCConsola.TiendaPC;
 
-namespace EjercicioPC.Validators.Pc
+namespace EjercicioPCConsola.Validators.Pc;
+
+public interface IPcValidator
 {
-	public interface IPcValidator
-	{
-		bool IsValid(Ordenador ordenador);
-	}
+    bool IsValid(Ordenador ordenador);
 }

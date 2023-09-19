@@ -1,6 +1,6 @@
-﻿namespace EjercicioPC.Componentes.Interfaces;
+﻿namespace EjercicioPCConsola.Componentes.Interfaces;
 
 public interface ISeriable
 {
-	string Serie { get; set; }
+	string? Serie { get; set; }
 }
