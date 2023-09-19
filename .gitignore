@@ -12,5 +12,11 @@
 *.out
 # Dependency directories (remove the comment below to include it)
 TestResults/ 
+.vs/
+EjercicioOrdenador/obj/
+EjercicioPC/obj/
+TestEjercicioOrdenador/bin/
+TestEjercicioOrdenador/obj/
+WebApiOrdenadores/obj/
 bin/
 obj/
