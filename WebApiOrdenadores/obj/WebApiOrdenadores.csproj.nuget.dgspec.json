@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {}
+    "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {}
   },
   "projects": {
-    "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
+    "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
+        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
         "projectName": "WebApiOrdenadores",
-        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
+        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\WebApiOrdenadores.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\obj\\",
+        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\WebApiOrdenadores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
