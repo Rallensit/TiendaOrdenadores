@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FOwCiCI0PxUCFgM/PbPsM+0vOMZsWfV5yu3Ycn2feHA/EvB87BCwo0dnrZtTByh9WfWrm2gW1eYgjmwUTQRkUg==",
+  "dgSpecHash": "JsfnX9wA9ce/6/jG50tU8WFCaNd+OchQWFX+8YY/LQeydUXWyKEzvr2beuu9riAEI8nm5QMuzBe6jJMummZSVg==",
   "success": true,
-  "projectFilePath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
+  "projectFilePath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioOrdenador\\EjercicioOrdenador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ralle\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ralle\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
