@@ -1,6 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
-using Microsoft.EntityFrameworkCore;
 using System.Data;
+using DotNetEnv;
 using WebApiOrdenadores.Models;
 
 
@@ -10,9 +10,11 @@ public class RepositorioComponentesAPI : IRepositorioComponente
 {
     public readonly string con;
 
-    public RepositorioComponentesAPI(IConfiguration configuration)
+    
+    public RepositorioComponentesAPI(IConfiguration configuration, string connection)
     {
-        con = configuration.GetConnectionString("TiendaOrdenadores");
+        Env.Load();
+        con = configuration.GetConnectionString(Environment.GetEnvironmentVariable("AZURE_DATABASE"));
     }
 
     public List<Componente>? ListaComponentes()

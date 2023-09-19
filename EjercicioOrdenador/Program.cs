@@ -78,7 +78,6 @@ namespace EjercicioOrdenador
             // Copy the connection string from the portal in the variable below.
             Env.Load();
 
-            //string connectionString = "DefaultEndpointsProtocol=https;AccountName=tiendapc;AccountKey=SnPP2a5U+cFJS9+Trb6lGsbPJQkrQrBut0NZWuSQB9WXYGec8HYuu5zFYtXMcrf3s1qLxblSYRiq+AStGJUNFw==;EndpointSuffix=core.windows.net";
             string connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION");
 
             // Create a client that can authenticate with a connection string

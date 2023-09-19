@@ -9,7 +9,9 @@ namespace TestEjercicioOrdenador.MVC
     [TestClass]
     public class ComponenteTest
     {
-        private readonly ComponenteController _controlador = new(new FakeRepositorioComponentes(), new LoggerManager(), new FakeRepositorioOrdenadores());
+        private readonly ComponenteController _controlador = new(new FakeRepositorioComponentes(), 
+            //new LoggerManager(), 
+            new FakeRepositorioOrdenadores());
 
         [TestMethod]
         public void PruebaComponenteDetallesVistaEncontrada()

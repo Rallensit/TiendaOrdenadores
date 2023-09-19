@@ -1,4 +1,5 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using DotNetEnv;
+using Microsoft.Data.SqlClient;
 using System.Data;
 using WebApiOrdenadores.Models;
 
@@ -10,7 +11,8 @@ namespace EjercicioOrdenador.Services
 
         public RepositorioOrdenadoresAPI(IConfiguration configuration)
         {
-            con = configuration.GetConnectionString("TiendaOrdenadores");
+            Env.Load();
+            con = configuration.GetConnectionString(Environment.GetEnvironmentVariable("AZURE_DATABASE"));
         }
 
         public List<Ordenador>? ListaOrdenadores()
