@@ -1,0 +1,28 @@
+name: C# Build and Test
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set Azure Storage Account Key
+        env:
+          AZURE_CONNECTION: ${{ secrets.AZURE_CONNECTION }}
+        run: |
+          # You can access the secret as an environment variable in your C# code
+          echo "AZURE_CONNECTION=$AZURE_CONNECTION" >> $GITHUB_ENV
+
+      - name: Build and Test
+        run: |
+          # Replace this with your C# build and test commands
+          dotnet build
+          dotnet test
+
