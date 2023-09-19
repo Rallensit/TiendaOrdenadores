@@ -11,3 +11,5 @@
 *.out
 # Dependency directories (remove the comment below to include it)
 TestResults/ 
+bin/
+obj/
