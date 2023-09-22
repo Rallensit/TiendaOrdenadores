@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {}
+    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {}
   },
   "projects": {
-    "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
+    "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
+        "projectUniqueName": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
         "projectName": "EjercicioPCConsola",
-        "projectPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
+        "projectPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\EjercicioPCConsola.csproj",
         "packagesPath": "C:\\Users\\ralle\\.nuget\\packages\\",
-        "outputPath": "C:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\obj\\",
+        "outputPath": "c:\\CarlosAlvarez\\EjercicioOrdenador\\EjercicioPC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

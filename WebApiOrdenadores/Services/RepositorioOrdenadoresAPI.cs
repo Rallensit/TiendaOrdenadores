@@ -12,7 +12,7 @@ public class RepositorioOrdenadoresApi : IRepositorioGenerico<Ordenador>
     public RepositorioOrdenadoresApi(IConfiguration configuration)
     {
         Env.Load();
-        Con = configuration.GetConnectionString(Environment.GetEnvironmentVariable("AZURE_DATABASE")!)!;
+        Con = configuration.GetConnectionString(Environment.GetEnvironmentVariable("TIENDAORDENADORES02")!)!;
     }
 
     public List<Ordenador> Listar()

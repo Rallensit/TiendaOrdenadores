@@ -7,6 +7,8 @@ namespace EjercicioOrdenador.Services.API;
 public class RepositorioOrdenadoresApi : IRepositorioGenerico<Ordenador>
 {
     private readonly HttpClient _httpClient;
+
+    // Put the url of the webapi here
     private const string UrlBase = "https://webapiordenadorescarlosalvarez.azurewebsites.net/api/Componente";
 
     public RepositorioOrdenadoresApi(IHttpClientFactory httpClientFactory)
